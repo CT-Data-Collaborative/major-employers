@@ -21,7 +21,7 @@
   }],
   "contributor": [],
   "resources": [{
-    "path": "data/data.csv",
+    "path": "data/major_employers_2014.csv",
     "format": "csv",
     "schema": {
       "fields": [{
@@ -37,26 +37,47 @@
           "type": "string",
           "dimension": false
         }, {
+          "name": "Year Submitted",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Town Profile Year",
+          "type": "string",
+          "dimension": false
+        }, {          
+          "name": "Rank",
+          "type": "string",
+          "dimension": true, 
+          "constraints": {
+            "enum": ["1", "2", "3", "4", "5"]
+          }           
+        }, {           
           "name": "Measure Type",
           "type": "string",
-          "dimension": true
+          "dimension": true, 
+          "constraints": {
+            "enum": ["Name"]
+          }           
         }, {
           "name": "Variable",
           "type": "string",
-          "dimension": true
+          "dimension": true, 
+          "constraints": {
+            "enum": ["Employer"]
+          }           
         }, {
           "name": "Value",
-          "type": "number",
+          "type": "string",
           "dimension": false
         }]
       }
     }
   ],
-  "last_modified": "05/22/2017",
+  "last_modified": "05/30/2017",
   "ckan_extras": {
     "full_description": {
       "ckan_name": "Full Description",
-      "value": "Major Employers reports the top five employers by town. Rank is based on the number of employees.",
+      "value": "Major Employers reports the top five employers by town. Rank is based on the number of employees.'Year Submitted' represents when the grand list data was collected for a given year. 'Town Profile Year' represents for which year these data were used in the Town Profiles project.",
       "type": "string"
     },
     "suppression": {
@@ -66,27 +87,27 @@
     },
     "technical_notes": {
       "ckan_name": "Technical Notes",
-      "value": "Technical notes for advanced users",
+      "value": "",
       "type": "string"
     },
     "socrata": {
       "ckan_name": "Socrata",
-      "value": "False",,
+      "value": "False",
       "type": "string"
     },
     "socrata_url": {
       "ckan_name": "Socrata Dataset URL",
-      "value": "",,
+      "value": "",
       "type": "string"
     },
     "domain": {
       "ckan_name": "Domain",
-      "value": "Data domain (top level)",
+      "value": "",
       "type": "string"
     },
     "subdomain": {
       "ckan_name": "Subdomain",
-      "value": "Topic within top level domain",
+      "value": "",
       "type": "string"
     },
     "geography": {
@@ -102,12 +123,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": [],
+      "value": ["2014"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2016",
+      "value": "2014",
       "type": "string"
     },
     "disabled_views": {
@@ -123,11 +144,92 @@
         "Percent": "%"
       }
     },
+    "expected_number_of_geographies": {
+      "ckan_name": "Expected Number of Unique Geographies",
+      "value": 169,
+      "type": "string"
+    },   
     "default": {}
-  },
-  "spot_checks": [],
+  }, 
+  "spot_checks": [
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Andover",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "1"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Andover Elementary School"
+      }
+    }, 
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Killingworth",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "2"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Killingworth Elementary School"
+      }
+    }, 
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Southington",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "3"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Connecticut of-Line Computer Company"
+      }
+    },    
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Bristol",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "4"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "-9999"
+      }
+    },    
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Stratford",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "5"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Lord Chamberlain Nursing-Rehab"
+      }
+    }    
+  ],
   "dimension_groups": [
-    {"Measure Type": []},
-    {"Variable": []}
+    {"Rank": ["1", "2", "3", "4", "5"]
+    }
   ]
 }
