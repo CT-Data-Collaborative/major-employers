@@ -149,7 +149,15 @@
       "value": 169,
       "type": "string"
     },   
-    "default": {}
+    "default": {    
+      "ckan_name": "Default",
+      "value": {
+        "Measure Type": "Number",
+        "Year": ["2014"],
+        "Variable": ["Employer"]
+      },
+      "type": "object"
+    }
   }, 
   "spot_checks": [
     {
