@@ -21,7 +21,7 @@
   }],
   "contributor": [],
   "resources": [{
-    "path": "data/major_employers_2014.csv",
+    "path": "data/major_employers_2014_2016.csv",
     "format": "csv",
     "schema": {
       "fields": [{
@@ -123,12 +123,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": ["2014"],
+      "value": ["2014", "2016"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2014",
+      "value": "2016",
       "type": "string"
     },
     "disabled_views": {
@@ -153,7 +153,7 @@
       "ckan_name": "Default",
       "value": {
         "Measure Type": "Number",
-        "Year": ["2014"],
+        "Year": ["2016"],
         "Variable": ["Employer"]
       },
       "type": "object"
@@ -234,7 +234,82 @@
         "number type": "string",
         "value": "Lord Chamberlain Nursing-Rehab"
       }
-    }    
+    },
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Manchester",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "1"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Allied Printing"
+      }
+    }, 
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Old Lyme",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "2"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Kellogg Marine Supply"
+      }
+    }, 
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Redding",
+        "Year": "2016",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "3"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "-9999"
+      }
+    },    
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Warren",
+        "Year": "2016",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "4"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Siddal Heating & Cooling"
+      }
+    },    
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Easton",
+        "Year": "2014",
+        "Variable": "Employer",
+        "Measure Type": "Name", 
+        "Rank": "5"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "string",
+        "value": "Easton Garden Club Inc"
+      }
+    }       
   ],
   "dimension_groups": [
     {"Rank": ["1", "2", "3", "4", "5"]
