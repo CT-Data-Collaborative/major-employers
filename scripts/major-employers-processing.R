@@ -145,7 +145,8 @@ ME_incomplete_df <- ME_complete_fips[ME_complete_fips$Town %in% ME_incomplete,]
 non_descript <- c("Easton", "Old Lyme")
 #set these towns to their 2016 values
 bring_from_2016_again <- ME_complete_2014_fips[ME_complete_2014_fips$Town %in% non_descript,]
-ME_complete_fips <- ME_complete_fips[!(ME_complete_fips$Town %in% non_descript & ME_complete_fips$Year == 2016),]
+bring_from_2016_again$`Town Profile Year` <- 2017
+ME_complete_fips <- ME_complete_fips[!(ME_complete_fips$Town %in% non_descript & ME_complete_fips$`Town Profile Year` == 2017),]
 
 ME_complete_fips <- rbind(bring_from_2016_again, ME_complete_fips)
 
