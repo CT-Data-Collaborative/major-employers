@@ -18,6 +18,7 @@ sub_folders <- list.files()
 data_location <- grep("raw", sub_folders, value=T)
 path_to_raw_data <- (paste0(getwd(), "/", data_location))
 ME_xlsx <- dir(path_to_raw_data, recursive=T, pattern = "MajorE") 
+me18 <- dir(path_to_raw_data, recursive=T, pattern = "major_") 
 
 #bring in 2014 data only 
 legacy_ME <- dir(path_to_raw_data, recursive=T, pattern = "2014") 
@@ -154,12 +155,50 @@ ME_complete_fips <- ME_complete_fips %>%
   select(`Town`, `FIPS`, `Year`, `Year Submitted`, `Town Profile Year`, `Rank`, `Variable`, `Measure Type`, `Value`) %>% 
   arrange(Town, `Town Profile Year`, Rank)
 
+#Process 2018 data
+ME_data_2018 <- read.csv(paste0(path_to_raw_data, "/", me18), header=T, stringsAsFactors = F, check.names = F)
+
+#backfill 2018 data (so we can supplement 2017 data for missing 2018 data)
+# backfill18 <- expand.grid(
+#   Town = unique(ME_data_2018$Town),
+#   Rank = unique(ME_complete_fips$Rank)
+# )
+# 
+# ME_data_2018 <- merge(ME_data_2018, backfill18, by = c("Town", "Rank"), all.y=T)
+
+#isolate towns where we need to copy 2017 data to 2018
+data_from_2017_towns <- unique(ME_data_2018$Town[ME_data_2018$Rank == 1 & is.na(ME_data_2018$Value)])
+
+data_from_2017 <- ME_complete_fips[ME_complete_fips$Town %in% data_from_2017_towns & ME_complete_fips$`Town Profile Year` == 2017,]
+data_from_2017$`Town Profile Year` <- 2018
+
+ME_data_2018 <- ME_data_2018[!ME_data_2018$Town %in% data_from_2017_towns,]
+
+ME_data_2018final <- rbind(ME_data_2018, data_from_2017)
+
+#Bind all data together
+ME_complete_final <- rbind(ME_complete_fips, ME_data_2018final)
+
+ME_complete_final <- ME_complete_final %>% 
+  arrange(Town, `Town Profile Year`, Rank)
+
 #set towns with less than 5 ranks, set rest to -9999
 # Write to File
 write.table(
-  ME_complete_fips,
-  file.path(getwd(), "data", "major_employers_2014_2016.csv"),
+  ME_complete_final,
+  file.path(getwd(), "data", "major_employers_2014_2017.csv"),
   sep = ",",
   na = "-9999", 
   row.names = F
 )
+
+ME_complete_fips_wide <- spread(ME_complete_fips, Rank, Value)
+ME_complete_fips_wide <- ME_complete_fips_wide[ME_complete_fips_wide$`Town Profile Year` == "2017",]
+
+write.table(
+  ME_complete_fips_wide,
+  file.path(getwd(), "data", "major_employers_for_form.csv"),
+  sep = ",",
+  row.names = F
+)
+

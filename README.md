@@ -1,7 +1,5 @@
 Major Employers
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/major-employers.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/major-employers)
-
 Major Employers reports the top five employers by town. Rank is based on the number of employees.
 
 Data Source: Municipalities 

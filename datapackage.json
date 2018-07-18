@@ -21,7 +21,7 @@
   }],
   "contributor": [],
   "resources": [{
-    "path": "data/major_employers_2014_2016.csv",
+    "path": "data/major_employers_2014_2017.csv",
     "format": "csv",
     "schema": {
       "fields": [{
@@ -43,7 +43,10 @@
         }, {
           "name": "Town Profile Year",
           "type": "string",
-          "dimension": false
+          "dimension": true, 
+          "constraints": {
+            "enum": ["2016", "2017", "2018"]
+          }
         }, {          
           "name": "Rank",
           "type": "string",
@@ -73,7 +76,7 @@
       }
     }
   ],
-  "last_modified": "05/30/2017",
+  "last_modified": "07/18/2018",
   "ckan_extras": {
     "full_description": {
       "ckan_name": "Full Description",
@@ -123,12 +126,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": ["2014", "2016"],
+      "value": ["2014", "2016", "2017"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2016",
+      "value": "2017",
       "type": "string"
     },
     "disabled_views": {
@@ -153,7 +156,7 @@
       "ckan_name": "Default",
       "value": {
         "Measure Type": "Number",
-        "Year": ["2016"],
+        "Year": ["2017"],
         "Variable": ["Employer"]
       },
       "type": "object"
@@ -312,7 +315,8 @@
     }       
   ],
   "dimension_groups": [
-    {"Rank": ["1", "2", "3", "4", "5"]
+    {
+      "Rank": ["1", "2", "3", "4", "5"]
     }
   ]
 }
