@@ -1,846 +1,846 @@
-"Town","FIPS","Rank","Value","Year","Year Submitted","Town Profile Year","Variable","Measure Type"
-"Andover",901301080,"1",NA,2017,2018,2018,"Employer","Name"
-"Ansonia",900901220,"1",NA,2017,2018,2018,"Employer","Name"
-"Ashford",901501430,"1",NA,2017,2018,2018,"Employer","Name"
-"Avon",900302060,"1",NA,2017,2018,2018,"Employer","Name"
-"Barkhamsted",900502760,"1",NA,2017,2018,2018,"Employer","Name"
-"Beacon Falls",900903250,"1","NEJ",2017,2018,2018,"Employer","Name"
-"Berlin",900304300,"1","Eversource",2017,2018,2018,"Employer","Name"
-"Bethany",900904580,"1",NA,2017,2018,2018,"Employer","Name"
-"Bethel",900104720,"1",NA,2017,2018,2018,"Employer","Name"
-"Bethlehem",900504930,"1",NA,2017,2018,2018,"Employer","Name"
-"Bloomfield",900305910,"1","CIGNA (all divisions)",2017,2018,2018,"Employer","Name"
-"Bolton",901306260,"1",NA,2017,2018,2018,"Employer","Name"
-"Bozrah",901106820,"1","Hillendale Farms Egg Production",2017,2018,2018,"Employer","Name"
-"Branford",900907310,"1",NA,2017,2018,2018,"Employer","Name"
-"Bridgeport",900108070,"1",NA,2017,2018,2018,"Employer","Name"
-"Bridgewater",900508210,"1","Town of Bridgewater",2017,2018,2018,"Employer","Name"
-"Bristol",900308490,"1",NA,2017,2018,2018,"Employer","Name"
-"Brookfield",900108980,"1",NA,2017,2018,2018,"Employer","Name"
-"Brooklyn",901509190,"1",NA,2017,2018,2018,"Employer","Name"
-"Burlington",900310100,"1",NA,2017,2018,2018,"Employer","Name"
-"Canaan",900510940,"1",NA,2017,2018,2018,"Employer","Name"
-"Canterbury",901512130,"1",NA,2017,2018,2018,"Employer","Name"
-"Canton",900312270,"1","Town of Canton",2017,2018,2018,"Employer","Name"
-"Chaplin",901513810,"1","Chaplin Elementary School",2017,2018,2018,"Employer","Name"
-"Cheshire",900914160,"1","Bozzuto’s Inc.",2017,2018,2018,"Employer","Name"
-"Chester",900714300,"1",NA,2017,2018,2018,"Employer","Name"
-"Clinton",900715350,"1",NA,2017,2018,2018,"Employer","Name"
-"Colchester",901115910,"1","S&S Arts and Crafts Factory",2017,2018,2018,"Employer","Name"
-"Colebrook",900516050,"1",NA,2017,2018,2018,"Employer","Name"
-"Columbia",901316400,"1",NA,2017,2018,2018,"Employer","Name"
-"Cornwall",900517240,"1",NA,2017,2018,2018,"Employer","Name"
-"Coventry",901317800,"1",NA,2017,2018,2018,"Employer","Name"
-"Cromwell",900718080,"1",NA,2017,2018,2018,"Employer","Name"
-"Danbury",900118500,"1","Quintiles IMS",2017,2018,2018,"Employer","Name"
-"Darien",900118850,"1","Town of Darien",2017,2018,2018,"Employer","Name"
-"Deep River",900719130,"1",NA,2017,2018,2018,"Employer","Name"
-"Derby",900919550,"1","Griffin Hospital",2017,2018,2018,"Employer","Name"
-"Durham",900720810,"1",NA,2017,2018,2018,"Employer","Name"
-"East Granby",900322070,"1","Air National Guard",2017,2018,2018,"Employer","Name"
-"East Haddam",900722280,"1",NA,2017,2018,2018,"Employer","Name"
-"East Hampton",900722490,"1",NA,2017,2018,2018,"Employer","Name"
-"East Hartford",900322630,"1","Pratt & Whitney",2017,2018,2018,"Employer","Name"
-"East Haven",900922910,"1",NA,2017,2018,2018,"Employer","Name"
-"East Lyme",901123400,"1",NA,2017,2018,2018,"Employer","Name"
-"East Windsor",900324800,"1",NA,2017,2018,2018,"Employer","Name"
-"Eastford",901521860,"1",NA,2017,2018,2018,"Employer","Name"
-"Easton",900123890,"1",NA,2017,2018,2018,"Employer","Name"
-"Ellington",901325360,"1",NA,2017,2018,2018,"Employer","Name"
-"Enfield",900325990,"1",NA,2017,2018,2018,"Employer","Name"
-"Essex",900726270,"1","Essex Meadows Lifecare",2017,2018,2018,"Employer","Name"
-"Fairfield",900126620,"1",NA,2017,2018,2018,"Employer","Name"
-"Farmington",900327600,"1","UConn Health",2017,2018,2018,"Employer","Name"
-"Franklin",901129910,"1","Hillandale",2017,2018,2018,"Employer","Name"
-"Glastonbury",900331240,"1",NA,2017,2018,2018,"Employer","Name"
-"Goshen",900532290,"1",NA,2017,2018,2018,"Employer","Name"
-"Granby",900332640,"1","Meadow Brook of Granby",2017,2018,2018,"Employer","Name"
-"Greenwich",900133620,"1","Town of Greenwich",2017,2018,2018,"Employer","Name"
-"Griswold",901133900,"1",NA,2017,2018,2018,"Employer","Name"
-"Groton",901134250,"1","Electric Boat Corporation",2017,2018,2018,"Employer","Name"
-"Guilford",900934950,"1",NA,2017,2018,2018,"Employer","Name"
-"Haddam",900735230,"1",NA,2017,2018,2018,"Employer","Name"
-"Hamden",900935650,"1",NA,2017,2018,2018,"Employer","Name"
-"Hampton",901536000,"1",NA,2017,2018,2018,"Employer","Name"
-"Hartford",900337070,"1",NA,2017,2018,2018,"Employer","Name"
-"Hartland",900337140,"1",NA,2017,2018,2018,"Employer","Name"
-"Harwinton",900537280,"1",NA,2017,2018,2018,"Employer","Name"
-"Hebron",901337910,"1","RHAM Board of Education",2017,2018,2018,"Employer","Name"
-"Kent",900540290,"1",NA,2017,2018,2018,"Employer","Name"
-"Killingly",901540500,"1",NA,2017,2018,2018,"Employer","Name"
-"Killingworth",900740710,"1",NA,2017,2018,2018,"Employer","Name"
-"Lebanon",901142390,"1",NA,2017,2018,2018,"Employer","Name"
-"Ledyard",901142600,"1","Foxwoods Resort Casino",2017,2018,2018,"Employer","Name"
-"Lisbon",901143230,"1",NA,2017,2018,2018,"Employer","Name"
-"Litchfield",900543370,"1",NA,2017,2018,2018,"Employer","Name"
-"Lyme",901144210,"1","reynolds subaru and marine",2017,2018,2018,"Employer","Name"
-"Madison",900944560,"1",NA,2017,2018,2018,"Employer","Name"
-"Manchester",900344700,"1","Prospect ECHN",2017,2018,2018,"Employer","Name"
-"Mansfield",901344910,"1","University of Connecticut",2017,2018,2018,"Employer","Name"
-"Marlborough",900345820,"1",NA,2017,2018,2018,"Employer","Name"
-"Meriden",900946520,"1","Midstate Medical Center",2017,2018,2018,"Employer","Name"
-"Middlebury",900946940,"1",NA,2017,2018,2018,"Employer","Name"
-"Middlefield",900747080,"1",NA,2017,2018,2018,"Employer","Name"
-"Middletown",900747360,"1",NA,2017,2018,2018,"Employer","Name"
-"Milford",900947535,"1",NA,2017,2018,2018,"Employer","Name"
-"Monroe",900148620,"1","Town of Monroe",2017,2018,2018,"Employer","Name"
-"Montville",901148900,"1",NA,2017,2018,2018,"Employer","Name"
-"Morris",900549460,"1",NA,2017,2018,2018,"Employer","Name"
-"Naugatuck",900949950,"1",NA,2017,2018,2018,"Employer","Name"
-"New Britain",900350440,"1","Hospital of Central Connecticut",2017,2018,2018,"Employer","Name"
-"New Canaan",900150580,"1",NA,2017,2018,2018,"Employer","Name"
-"New Fairfield",900150860,"1",NA,2017,2018,2018,"Employer","Name"
-"New Hartford",900551350,"1",NA,2017,2018,2018,"Employer","Name"
-"New Haven",900952070,"1",NA,2017,2018,2018,"Employer","Name"
-"New London",901152350,"1","Electric Boat Corp",2017,2018,2018,"Employer","Name"
-"New Milford",900552630,"1",NA,2017,2018,2018,"Employer","Name"
-"Newington",900352140,"1","Town of Newington",2017,2018,2018,"Employer","Name"
-"Newtown",900152980,"1","Town of Newtown - Board of Education",2017,2018,2018,"Employer","Name"
-"Norfolk",900553470,"1",NA,2017,2018,2018,"Employer","Name"
-"North Branford",900953890,"1",NA,2017,2018,2018,"Employer","Name"
-"North Canaan",900554030,"1","Becton-Dickinson",2017,2018,2018,"Employer","Name"
-"North Haven",900954870,"1",NA,2017,2018,2018,"Employer","Name"
-"North Stonington",901155500,"1",NA,2017,2018,2018,"Employer","Name"
-"Norwalk",900156060,"1","Western Connecticut Health Network (Norwalk Hospital)",2017,2018,2018,"Employer","Name"
-"Norwich",901156270,"1","William W. Backus Hospital",2017,2018,2018,"Employer","Name"
-"Old Lyme",901157040,"1","Project LEARN",2017,2018,2018,"Employer","Name"
-"Old Saybrook",900757320,"1","Saybrook Point Inn & Spa",2017,2018,2018,"Employer","Name"
-"Orange",900957600,"1","United Illuminating",2017,2018,2018,"Employer","Name"
-"Oxford",900958300,"1",NA,2017,2018,2018,"Employer","Name"
-"Plainfield",901559980,"1","Town of Plainfield",2017,2018,2018,"Employer","Name"
-"Plainville",900360120,"1",NA,2017,2018,2018,"Employer","Name"
-"Plymouth",900560750,"1",NA,2017,2018,2018,"Employer","Name"
-"Pomfret",901561030,"1",NA,2017,2018,2018,"Employer","Name"
-"Portland",900761800,"1","Town of Portland",2017,2018,2018,"Employer","Name"
-"Preston",901162150,"1",NA,2017,2018,2018,"Employer","Name"
-"Prospect",900962290,"1",NA,2017,2018,2018,"Employer","Name"
-"Putnam",901562710,"1",NA,2017,2018,2018,"Employer","Name"
-"Redding",900163480,"1",NA,2017,2018,2018,"Employer","Name"
-"Ridgefield",900163970,"1","Boehringer-Ingelheim",2017,2018,2018,"Employer","Name"
-"Rocky Hill",900365370,"1",NA,2017,2018,2018,"Employer","Name"
-"Roxbury",900565930,"1",NA,2017,2018,2018,"Employer","Name"
-"Salem",901166210,"1","Salem Elementary School",2017,2018,2018,"Employer","Name"
-"Salisbury",900566420,"1",NA,2017,2018,2018,"Employer","Name"
-"Scotland",901567400,"1",NA,2017,2018,2018,"Employer","Name"
-"Seymour",900967610,"1",NA,2017,2018,2018,"Employer","Name"
-"Sharon",900567960,"1",NA,2017,2018,2018,"Employer","Name"
-"Shelton",900168170,"1",NA,2017,2018,2018,"Employer","Name"
-"Sherman",900168310,"1",NA,2017,2018,2018,"Employer","Name"
-"Simsbury",900368940,"1","The Town of South Windsor-Government and Education",2017,2018,2018,"Employer","Name"
-"Somers",901369220,"1",NA,2017,2018,2018,"Employer","Name"
-"South Windsor",900371390,"1",NA,2017,2018,2018,"Employer","Name"
-"Southbury",900969640,"1",NA,2017,2018,2018,"Employer","Name"
-"Southington",900370550,"1","Town of Southington",2017,2018,2018,"Employer","Name"
-"Sprague",901171670,"1",NA,2017,2018,2018,"Employer","Name"
-"Stafford",901372090,"1","Johnson Memorial Hospital",2017,2018,2018,"Employer","Name"
-"Stamford",900173070,"1","Stamford Health",2017,2018,2018,"Employer","Name"
-"Sterling",901573420,"1",NA,2017,2018,2018,"Employer","Name"
-"Stonington",901173770,"1",NA,2017,2018,2018,"Employer","Name"
-"Stratford",900174190,"1",NA,2017,2018,2018,"Employer","Name"
-"Suffield",900374540,"1",NA,2017,2018,2018,"Employer","Name"
-"Thomaston",900575730,"1","Albea",2017,2018,2018,"Employer","Name"
-"Thompson",901575870,"1",NA,2017,2018,2018,"Employer","Name"
-"Tolland",901376290,"1","Town of Tolland",2017,2018,2018,"Employer","Name"
-"Torrington",900576570,"1",NA,2017,2018,2018,"Employer","Name"
-"Trumbull",900177200,"1","Westfield Trumbull Mall",2017,2018,2018,"Employer","Name"
-"Union",901377830,"1",NA,2017,2018,2018,"Employer","Name"
-"Vernon",901378250,"1","Town of Vernon",2017,2018,2018,"Employer","Name"
-"Voluntown",901178600,"1","Voluntown Elementary",2017,2018,2018,"Employer","Name"
-"Wallingford",900978740,"1","Town of Wallingford",2017,2018,2018,"Employer","Name"
-"Warren",900579510,"1",NA,2017,2018,2018,"Employer","Name"
-"Washington",900579720,"1","The Gunnery School",2017,2018,2018,"Employer","Name"
-"Waterbury",900980070,"1",NA,2017,2018,2018,"Employer","Name"
-"Waterford",901180280,"1",NA,2017,2018,2018,"Employer","Name"
-"Watertown",900580490,"1",NA,2017,2018,2018,"Employer","Name"
-"West Hartford",900382590,"1","University of Hartford",2017,2018,2018,"Employer","Name"
-"West Haven",900982870,"1",NA,2017,2018,2018,"Employer","Name"
-"Westbrook",900781680,"1","The Lee Company",2017,2018,2018,"Employer","Name"
-"Weston",900183430,"1",NA,2017,2018,2018,"Employer","Name"
-"Westport",900183500,"1","Bridgewater Associates",2017,2018,2018,"Employer","Name"
-"Wethersfield",900384900,"1",NA,2017,2018,2018,"Employer","Name"
-"Willington",901385950,"1",NA,2017,2018,2018,"Employer","Name"
-"Wilton",900186370,"1",NA,2017,2018,2018,"Employer","Name"
-"Winchester",900586440,"1",NA,2017,2018,2018,"Employer","Name"
-"Windham",901586790,"1",NA,2017,2018,2018,"Employer","Name"
-"Windsor",900387000,"1","The Hartford",2017,2018,2018,"Employer","Name"
-"Windsor Locks",900387070,"1",NA,2017,2018,2018,"Employer","Name"
-"Wolcott",900987560,"1",NA,2017,2018,2018,"Employer","Name"
-"Woodbridge",900987700,"1",NA,2017,2018,2018,"Employer","Name"
-"Woodbury",900587910,"1","Regional School District 14",2017,2018,2018,"Employer","Name"
-"Woodstock",901588190,"1",NA,2017,2018,2018,"Employer","Name"
-"Andover",901301080,"2",NA,2017,2018,2018,"Employer","Name"
-"Ansonia",900901220,"2",NA,2017,2018,2018,"Employer","Name"
-"Ashford",901501430,"2",NA,2017,2018,2018,"Employer","Name"
-"Avon",900302060,"2",NA,2017,2018,2018,"Employer","Name"
-"Barkhamsted",900502760,"2",NA,2017,2018,2018,"Employer","Name"
-"Beacon Falls",900903250,"2","DiGiorgi",2017,2018,2018,"Employer","Name"
-"Berlin",900304300,"2","Assa Abloy",2017,2018,2018,"Employer","Name"
-"Bethany",900904580,"2",NA,2017,2018,2018,"Employer","Name"
-"Bethel",900104720,"2",NA,2017,2018,2018,"Employer","Name"
-"Bethlehem",900504930,"2",NA,2017,2018,2018,"Employer","Name"
-"Bloomfield",900305910,"2","KAMAN (all divisions)",2017,2018,2018,"Employer","Name"
-"Bolton",901306260,"2",NA,2017,2018,2018,"Employer","Name"
-"Bozrah",901106820,"2","United Parcel Service",2017,2018,2018,"Employer","Name"
-"Branford",900907310,"2",NA,2017,2018,2018,"Employer","Name"
-"Bridgeport",900108070,"2",NA,2017,2018,2018,"Employer","Name"
-"Bridgewater",900508210,"2","Region 12 School District",2017,2018,2018,"Employer","Name"
-"Bristol",900308490,"2",NA,2017,2018,2018,"Employer","Name"
-"Brookfield",900108980,"2",NA,2017,2018,2018,"Employer","Name"
-"Brooklyn",901509190,"2",NA,2017,2018,2018,"Employer","Name"
-"Burlington",900310100,"2",NA,2017,2018,2018,"Employer","Name"
-"Canaan",900510940,"2",NA,2017,2018,2018,"Employer","Name"
-"Canterbury",901512130,"2",NA,2017,2018,2018,"Employer","Name"
-"Canton",900312270,"2","Favarh",2017,2018,2018,"Employer","Name"
-"Chaplin",901513810,"2","CT Casket Company LLC",2017,2018,2018,"Employer","Name"
-"Cheshire",900914160,"2","Town of Cheshire",2017,2018,2018,"Employer","Name"
-"Chester",900714300,"2",NA,2017,2018,2018,"Employer","Name"
-"Clinton",900715350,"2",NA,2017,2018,2018,"Employer","Name"
-"Colchester",901115910,"2","Super Stop and Shop",2017,2018,2018,"Employer","Name"
-"Colebrook",900516050,"2",NA,2017,2018,2018,"Employer","Name"
-"Columbia",901316400,"2",NA,2017,2018,2018,"Employer","Name"
-"Cornwall",900517240,"2",NA,2017,2018,2018,"Employer","Name"
-"Coventry",901317800,"2",NA,2017,2018,2018,"Employer","Name"
-"Cromwell",900718080,"2",NA,2017,2018,2018,"Employer","Name"
-"Danbury",900118500,"2","UTC Aerospace",2017,2018,2018,"Employer","Name"
-"Darien",900118850,"2","Zoto’s International Hair Care Products",2017,2018,2018,"Employer","Name"
-"Deep River",900719130,"2",NA,2017,2018,2018,"Employer","Name"
-"Derby",900919550,"2","Shop Rite",2017,2018,2018,"Employer","Name"
-"Durham",900720810,"2",NA,2017,2018,2018,"Employer","Name"
-"East Granby",900322070,"2","Rockbestos",2017,2018,2018,"Employer","Name"
-"East Haddam",900722280,"2",NA,2017,2018,2018,"Employer","Name"
-"East Hampton",900722490,"2",NA,2017,2018,2018,"Employer","Name"
-"East Hartford",900322630,"2","Town of East Hartford",2017,2018,2018,"Employer","Name"
-"East Haven",900922910,"2",NA,2017,2018,2018,"Employer","Name"
-"East Lyme",901123400,"2",NA,2017,2018,2018,"Employer","Name"
-"East Windsor",900324800,"2",NA,2017,2018,2018,"Employer","Name"
-"Eastford",901521860,"2",NA,2017,2018,2018,"Employer","Name"
-"Easton",900123890,"2",NA,2017,2018,2018,"Employer","Name"
-"Ellington",901325360,"2",NA,2017,2018,2018,"Employer","Name"
-"Enfield",900325990,"2",NA,2017,2018,2018,"Employer","Name"
-"Essex",900726270,"2","Underwater Construction",2017,2018,2018,"Employer","Name"
-"Fairfield",900126620,"2",NA,2017,2018,2018,"Employer","Name"
-"Farmington",900327600,"2","United Technologies",2017,2018,2018,"Employer","Name"
-"Franklin",901129910,"2",NA,2017,2018,2018,"Employer","Name"
-"Glastonbury",900331240,"2",NA,2017,2018,2018,"Employer","Name"
-"Goshen",900532290,"2",NA,2017,2018,2018,"Employer","Name"
-"Granby",900332640,"2","Super Stop & Shop",2017,2018,2018,"Employer","Name"
-"Greenwich",900133620,"2","Greenwich Hospital",2017,2018,2018,"Employer","Name"
-"Griswold",901133900,"2",NA,2017,2018,2018,"Employer","Name"
-"Groton",901134250,"2","U. S. Navy Submarine Base",2017,2018,2018,"Employer","Name"
-"Guilford",900934950,"2",NA,2017,2018,2018,"Employer","Name"
-"Haddam",900735230,"2",NA,2017,2018,2018,"Employer","Name"
-"Hamden",900935650,"2",NA,2017,2018,2018,"Employer","Name"
-"Hampton",901536000,"2",NA,2017,2018,2018,"Employer","Name"
-"Hartford",900337070,"2",NA,2017,2018,2018,"Employer","Name"
-"Hartland",900337140,"2",NA,2017,2018,2018,"Employer","Name"
-"Harwinton",900537280,"2",NA,2017,2018,2018,"Employer","Name"
-"Hebron",901337910,"2","Hebron Board of Education",2017,2018,2018,"Employer","Name"
-"Kent",900540290,"2",NA,2017,2018,2018,"Employer","Name"
-"Killingly",901540500,"2",NA,2017,2018,2018,"Employer","Name"
-"Killingworth",900740710,"2",NA,2017,2018,2018,"Employer","Name"
-"Lebanon",901142390,"2",NA,2017,2018,2018,"Employer","Name"
-"Ledyard",901142600,"2","Ledyard Board of Education",2017,2018,2018,"Employer","Name"
-"Lisbon",901143230,"2",NA,2017,2018,2018,"Employer","Name"
-"Litchfield",900543370,"2",NA,2017,2018,2018,"Employer","Name"
-"Lyme",901144210,"2","region 18 school district",2017,2018,2018,"Employer","Name"
-"Madison",900944560,"2",NA,2017,2018,2018,"Employer","Name"
-"Manchester",900344700,"2","Town of Manchester/Board of Education",2017,2018,2018,"Employer","Name"
-"Mansfield",901344910,"2","Town of Mansfield/Board of Ed",2017,2018,2018,"Employer","Name"
-"Marlborough",900345820,"2",NA,2017,2018,2018,"Employer","Name"
-"Meriden",900946520,"2","Hunter's Ambulance and Transportation",2017,2018,2018,"Employer","Name"
-"Middlebury",900946940,"2",NA,2017,2018,2018,"Employer","Name"
-"Middlefield",900747080,"2",NA,2017,2018,2018,"Employer","Name"
-"Middletown",900747360,"2",NA,2017,2018,2018,"Employer","Name"
-"Milford",900947535,"2",NA,2017,2018,2018,"Employer","Name"
-"Monroe",900148620,"2","Aquarion Water Company of Conencticut",2017,2018,2018,"Employer","Name"
-"Montville",901148900,"2",NA,2017,2018,2018,"Employer","Name"
-"Morris",900549460,"2",NA,2017,2018,2018,"Employer","Name"
-"Naugatuck",900949950,"2",NA,2017,2018,2018,"Employer","Name"
-"New Britain",900350440,"2","City of New Britain",2017,2018,2018,"Employer","Name"
-"New Canaan",900150580,"2",NA,2017,2018,2018,"Employer","Name"
-"New Fairfield",900150860,"2",NA,2017,2018,2018,"Employer","Name"
-"New Hartford",900551350,"2",NA,2017,2018,2018,"Employer","Name"
-"New Haven",900952070,"2",NA,2017,2018,2018,"Employer","Name"
-"New London",901152350,"2","Yale New Haven Health",2017,2018,2018,"Employer","Name"
-"New Milford",900552630,"2",NA,2017,2018,2018,"Employer","Name"
-"Newington",900352140,"2","CT Department of Transportation",2017,2018,2018,"Employer","Name"
-"Newtown",900152980,"2","Masonicare of Newtown",2017,2018,2018,"Employer","Name"
-"Norfolk",900553470,"2",NA,2017,2018,2018,"Employer","Name"
-"North Branford",900953890,"2",NA,2017,2018,2018,"Employer","Name"
-"North Canaan",900554030,"2",NA,2017,2018,2018,"Employer","Name"
-"North Haven",900954870,"2",NA,2017,2018,2018,"Employer","Name"
-"North Stonington",901155500,"2",NA,2017,2018,2018,"Employer","Name"
-"Norwalk",900156060,"2","Cablevision Systems Corporation",2017,2018,2018,"Employer","Name"
-"Norwich",901156270,"2","City of Norwich",2017,2018,2018,"Employer","Name"
-"Old Lyme",901157040,"2","Regional School District #18",2017,2018,2018,"Employer","Name"
-"Old Saybrook",900757320,"2","Stop'n'Shop",2017,2018,2018,"Employer","Name"
-"Orange",900957600,"2","The Town of Orange",2017,2018,2018,"Employer","Name"
-"Oxford",900958300,"2",NA,2017,2018,2018,"Employer","Name"
-"Plainfield",901559980,"2","Lowe's Distribution",2017,2018,2018,"Employer","Name"
-"Plainville",900360120,"2",NA,2017,2018,2018,"Employer","Name"
-"Plymouth",900560750,"2",NA,2017,2018,2018,"Employer","Name"
-"Pomfret",901561030,"2",NA,2017,2018,2018,"Employer","Name"
-"Portland",900761800,"2","Portland Care & Rehabilitation",2017,2018,2018,"Employer","Name"
-"Preston",901162150,"2",NA,2017,2018,2018,"Employer","Name"
-"Prospect",900962290,"2",NA,2017,2018,2018,"Employer","Name"
-"Putnam",901562710,"2",NA,2017,2018,2018,"Employer","Name"
-"Redding",900163480,"2",NA,2017,2018,2018,"Employer","Name"
-"Ridgefield",900163970,"2","Town of Ridgefield",2017,2018,2018,"Employer","Name"
-"Rocky Hill",900365370,"2",NA,2017,2018,2018,"Employer","Name"
-"Roxbury",900565930,"2",NA,2017,2018,2018,"Employer","Name"
-"Salem",901166210,"2","Town Of Salem",2017,2018,2018,"Employer","Name"
-"Salisbury",900566420,"2",NA,2017,2018,2018,"Employer","Name"
-"Scotland",901567400,"2",NA,2017,2018,2018,"Employer","Name"
-"Seymour",900967610,"2",NA,2017,2018,2018,"Employer","Name"
-"Sharon",900567960,"2",NA,2017,2018,2018,"Employer","Name"
-"Shelton",900168170,"2",NA,2017,2018,2018,"Employer","Name"
-"Sherman",900168310,"2",NA,2017,2018,2018,"Employer","Name"
-"Simsbury",900368940,"2","DST Output",2017,2018,2018,"Employer","Name"
-"Somers",901369220,"2",NA,2017,2018,2018,"Employer","Name"
-"South Windsor",900371390,"2",NA,2017,2018,2018,"Employer","Name"
-"Southbury",900969640,"2",NA,2017,2018,2018,"Employer","Name"
-"Southington",900370550,"2","YMCA",2017,2018,2018,"Employer","Name"
-"Sprague",901171670,"2",NA,2017,2018,2018,"Employer","Name"
-"Stafford",901372090,"2","Evergreen Healthcare Center",2017,2018,2018,"Employer","Name"
-"Stamford",900173070,"2","Gartner",2017,2018,2018,"Employer","Name"
-"Sterling",901573420,"2",NA,2017,2018,2018,"Employer","Name"
-"Stonington",901173770,"2",NA,2017,2018,2018,"Employer","Name"
-"Stratford",900174190,"2",NA,2017,2018,2018,"Employer","Name"
-"Suffield",900374540,"2",NA,2017,2018,2018,"Employer","Name"
-"Thomaston",900575730,"2","Ward Leonard Electric Co Inc",2017,2018,2018,"Employer","Name"
-"Thompson",901575870,"2",NA,2017,2018,2018,"Employer","Name"
-"Tolland",901376290,"2","Gerber Scientific",2017,2018,2018,"Employer","Name"
-"Torrington",900576570,"2",NA,2017,2018,2018,"Employer","Name"
-"Trumbull",900177200,"2","Town of Trumbull",2017,2018,2018,"Employer","Name"
-"Union",901377830,"2",NA,2017,2018,2018,"Employer","Name"
-"Vernon",901378250,"2","ECHN",2017,2018,2018,"Employer","Name"
-"Voluntown",901178600,"2","Town Of Voluntown",2017,2018,2018,"Employer","Name"
-"Wallingford",900978740,"2","Anthem BC/BS",2017,2018,2018,"Employer","Name"
-"Warren",900579510,"2",NA,2017,2018,2018,"Employer","Name"
-"Washington",900579720,"2","Region 12 School",2017,2018,2018,"Employer","Name"
-"Waterbury",900980070,"2",NA,2017,2018,2018,"Employer","Name"
-"Waterford",901180280,"2",NA,2017,2018,2018,"Employer","Name"
-"Watertown",900580490,"2",NA,2017,2018,2018,"Employer","Name"
-"West Hartford",900382590,"2","Town of West Hartford",2017,2018,2018,"Employer","Name"
-"West Haven",900982870,"2",NA,2017,2018,2018,"Employer","Name"
-"Westbrook",900781680,"2","Water's Edge Resort",2017,2018,2018,"Employer","Name"
-"Weston",900183430,"2",NA,2017,2018,2018,"Employer","Name"
-"Westport",900183500,"2","Town of Westport, BOE",2017,2018,2018,"Employer","Name"
-"Wethersfield",900384900,"2",NA,2017,2018,2018,"Employer","Name"
-"Willington",901385950,"2",NA,2017,2018,2018,"Employer","Name"
-"Wilton",900186370,"2",NA,2017,2018,2018,"Employer","Name"
-"Winchester",900586440,"2",NA,2017,2018,2018,"Employer","Name"
-"Windham",901586790,"2",NA,2017,2018,2018,"Employer","Name"
-"Windsor",900387000,"2","Voya Financial",2017,2018,2018,"Employer","Name"
-"Windsor Locks",900387070,"2",NA,2017,2018,2018,"Employer","Name"
-"Wolcott",900987560,"2",NA,2017,2018,2018,"Employer","Name"
-"Woodbridge",900987700,"2",NA,2017,2018,2018,"Employer","Name"
-"Woodbury",900587910,"2","O&G Industries",2017,2018,2018,"Employer","Name"
-"Woodstock",901588190,"2",NA,2017,2018,2018,"Employer","Name"
-"Andover",901301080,"3",NA,2017,2018,2018,"Employer","Name"
-"Ansonia",900901220,"3",NA,2017,2018,2018,"Employer","Name"
-"Ashford",901501430,"3",NA,2017,2018,2018,"Employer","Name"
-"Avon",900302060,"3",NA,2017,2018,2018,"Employer","Name"
-"Barkhamsted",900502760,"3",NA,2017,2018,2018,"Employer","Name"
-"Beacon Falls",900903250,"3","Goldenrod",2017,2018,2018,"Employer","Name"
-"Berlin",900304300,"3","Parker Fluid Control",2017,2018,2018,"Employer","Name"
-"Bethany",900904580,"3",NA,2017,2018,2018,"Employer","Name"
-"Bethel",900104720,"3",NA,2017,2018,2018,"Employer","Name"
-"Bethlehem",900504930,"3",NA,2017,2018,2018,"Employer","Name"
-"Bloomfield",900305910,"3","Home Goods Warehouse",2017,2018,2018,"Employer","Name"
-"Bolton",901306260,"3",NA,2017,2018,2018,"Employer","Name"
-"Bozrah",901106820,"3","Gilman Brothers Company",2017,2018,2018,"Employer","Name"
-"Branford",900907310,"3",NA,2017,2018,2018,"Employer","Name"
-"Bridgeport",900108070,"3",NA,2017,2018,2018,"Employer","Name"
-"Bridgewater",900508210,"3","Holland Joint Venture/Parker Medical",2017,2018,2018,"Employer","Name"
-"Bristol",900308490,"3",NA,2017,2018,2018,"Employer","Name"
-"Brookfield",900108980,"3",NA,2017,2018,2018,"Employer","Name"
-"Brooklyn",901509190,"3",NA,2017,2018,2018,"Employer","Name"
-"Burlington",900310100,"3",NA,2017,2018,2018,"Employer","Name"
-"Canaan",900510940,"3",NA,2017,2018,2018,"Employer","Name"
-"Canterbury",901512130,"3",NA,2017,2018,2018,"Employer","Name"
-"Canton",900312270,"3","Shop Rite Supermarket",2017,2018,2018,"Employer","Name"
-"Chaplin",901513810,"3","Quasar Internet Solutions",2017,2018,2018,"Employer","Name"
-"Cheshire",900914160,"3","State of Connecticut",2017,2018,2018,"Employer","Name"
-"Chester",900714300,"3",NA,2017,2018,2018,"Employer","Name"
-"Clinton",900715350,"3",NA,2017,2018,2018,"Employer","Name"
-"Colchester",901115910,"3","Incord",2017,2018,2018,"Employer","Name"
-"Colebrook",900516050,"3",NA,2017,2018,2018,"Employer","Name"
-"Columbia",901316400,"3",NA,2017,2018,2018,"Employer","Name"
-"Cornwall",900517240,"3",NA,2017,2018,2018,"Employer","Name"
-"Coventry",901317800,"3",NA,2017,2018,2018,"Employer","Name"
-"Cromwell",900718080,"3",NA,2017,2018,2018,"Employer","Name"
-"Danbury",900118500,"3","Western CT State University",2017,2018,2018,"Employer","Name"
-"Darien",900118850,"3","Colangelo Synergy Marketing",2017,2018,2018,"Employer","Name"
-"Deep River",900719130,"3",NA,2017,2018,2018,"Employer","Name"
-"Derby",900919550,"3","Home Depot",2017,2018,2018,"Employer","Name"
-"Durham",900720810,"3",NA,2017,2018,2018,"Employer","Name"
-"East Granby",900322070,"3","Monrovia Nurseries",2017,2018,2018,"Employer","Name"
-"East Haddam",900722280,"3",NA,2017,2018,2018,"Employer","Name"
-"East Hampton",900722490,"3",NA,2017,2018,2018,"Employer","Name"
-"East Hartford",900322630,"3","Goodwin College",2017,2018,2018,"Employer","Name"
-"East Haven",900922910,"3",NA,2017,2018,2018,"Employer","Name"
-"East Lyme",901123400,"3",NA,2017,2018,2018,"Employer","Name"
-"East Windsor",900324800,"3",NA,2017,2018,2018,"Employer","Name"
-"Eastford",901521860,"3",NA,2017,2018,2018,"Employer","Name"
-"Easton",900123890,"3",NA,2017,2018,2018,"Employer","Name"
-"Ellington",901325360,"3",NA,2017,2018,2018,"Employer","Name"
-"Enfield",900325990,"3",NA,2017,2018,2018,"Employer","Name"
-"Essex",900726270,"3","Griswold Inn",2017,2018,2018,"Employer","Name"
-"Fairfield",900126620,"3",NA,2017,2018,2018,"Employer","Name"
-"Farmington",900327600,"3","Otis Elevator",2017,2018,2018,"Employer","Name"
-"Franklin",901129910,"3",NA,2017,2018,2018,"Employer","Name"
-"Glastonbury",900331240,"3",NA,2017,2018,2018,"Employer","Name"
-"Goshen",900532290,"3",NA,2017,2018,2018,"Employer","Name"
-"Granby",900332640,"3","Geissler's Supermarket",2017,2018,2018,"Employer","Name"
-"Greenwich",900133620,"3","AQR Capital Management",2017,2018,2018,"Employer","Name"
-"Griswold",901133900,"3",NA,2017,2018,2018,"Employer","Name"
-"Groton",901134250,"3","Pfizer, Inc.",2017,2018,2018,"Employer","Name"
-"Guilford",900934950,"3",NA,2017,2018,2018,"Employer","Name"
-"Haddam",900735230,"3",NA,2017,2018,2018,"Employer","Name"
-"Hamden",900935650,"3",NA,2017,2018,2018,"Employer","Name"
-"Hampton",901536000,"3",NA,2017,2018,2018,"Employer","Name"
-"Hartford",900337070,"3",NA,2017,2018,2018,"Employer","Name"
-"Hartland",900337140,"3",NA,2017,2018,2018,"Employer","Name"
-"Harwinton",900537280,"3",NA,2017,2018,2018,"Employer","Name"
-"Hebron",901337910,"3","Town of Hebron",2017,2018,2018,"Employer","Name"
-"Kent",900540290,"3",NA,2017,2018,2018,"Employer","Name"
-"Killingly",901540500,"3",NA,2017,2018,2018,"Employer","Name"
-"Killingworth",900740710,"3",NA,2017,2018,2018,"Employer","Name"
-"Lebanon",901142390,"3",NA,2017,2018,2018,"Employer","Name"
-"Ledyard",901142600,"3","Hard Rock Cafe",2017,2018,2018,"Employer","Name"
-"Lisbon",901143230,"3",NA,2017,2018,2018,"Employer","Name"
-"Litchfield",900543370,"3",NA,2017,2018,2018,"Employer","Name"
-"Lyme",901144210,"3",NA,2017,2018,2018,"Employer","Name"
-"Madison",900944560,"3",NA,2017,2018,2018,"Employer","Name"
-"Manchester",900344700,"3","Allied Printing",2017,2018,2018,"Employer","Name"
-"Mansfield",901344910,"3","Natchaug Hospital",2017,2018,2018,"Employer","Name"
-"Marlborough",900345820,"3",NA,2017,2018,2018,"Employer","Name"
-"Meriden",900946520,"3","3M",2017,2018,2018,"Employer","Name"
-"Middlebury",900946940,"3",NA,2017,2018,2018,"Employer","Name"
-"Middlefield",900747080,"3",NA,2017,2018,2018,"Employer","Name"
-"Middletown",900747360,"3",NA,2017,2018,2018,"Employer","Name"
-"Milford",900947535,"3",NA,2017,2018,2018,"Employer","Name"
-"Monroe",900148620,"3","Big Y Foods, Inc.",2017,2018,2018,"Employer","Name"
-"Montville",901148900,"3",NA,2017,2018,2018,"Employer","Name"
-"Morris",900549460,"3",NA,2017,2018,2018,"Employer","Name"
-"Naugatuck",900949950,"3",NA,2017,2018,2018,"Employer","Name"
-"New Britain",900350440,"3","Central Connecticut State University-State of Ct",2017,2018,2018,"Employer","Name"
-"New Canaan",900150580,"3",NA,2017,2018,2018,"Employer","Name"
-"New Fairfield",900150860,"3",NA,2017,2018,2018,"Employer","Name"
-"New Hartford",900551350,"3",NA,2017,2018,2018,"Employer","Name"
-"New Haven",900952070,"3",NA,2017,2018,2018,"Employer","Name"
-"New London",901152350,"3","Connecticut College",2017,2018,2018,"Employer","Name"
-"New Milford",900552630,"3",NA,2017,2018,2018,"Employer","Name"
-"Newington",900352140,"3","Hartford Hospital",2017,2018,2018,"Employer","Name"
-"Newtown",900152980,"3","Spectrum",2017,2018,2018,"Employer","Name"
-"Norfolk",900553470,"3",NA,2017,2018,2018,"Employer","Name"
-"North Branford",900953890,"3",NA,2017,2018,2018,"Employer","Name"
-"North Canaan",900554030,"3",NA,2017,2018,2018,"Employer","Name"
-"North Haven",900954870,"3",NA,2017,2018,2018,"Employer","Name"
-"North Stonington",901155500,"3",NA,2017,2018,2018,"Employer","Name"
-"Norwalk",900156060,"3","General Electric Company, Inc.",2017,2018,2018,"Employer","Name"
-"Norwich",901156270,"3","State of CT",2017,2018,2018,"Employer","Name"
-"Old Lyme",901157040,"3","Big Y",2017,2018,2018,"Employer","Name"
-"Old Saybrook",900757320,"3","Big Y",2017,2018,2018,"Employer","Name"
-"Orange",900957600,"3","Southern Connecticut Gas",2017,2018,2018,"Employer","Name"
-"Oxford",900958300,"3",NA,2017,2018,2018,"Employer","Name"
-"Plainfield",901559980,"3","Big Y",2017,2018,2018,"Employer","Name"
-"Plainville",900360120,"3",NA,2017,2018,2018,"Employer","Name"
-"Plymouth",900560750,"3",NA,2017,2018,2018,"Employer","Name"
-"Pomfret",901561030,"3",NA,2017,2018,2018,"Employer","Name"
-"Portland",900761800,"3","Jarvis Airfoil",2017,2018,2018,"Employer","Name"
-"Preston",901162150,"3",NA,2017,2018,2018,"Employer","Name"
-"Prospect",900962290,"3",NA,2017,2018,2018,"Employer","Name"
-"Putnam",901562710,"3",NA,2017,2018,2018,"Employer","Name"
-"Redding",900163480,"3",NA,2017,2018,2018,"Employer","Name"
-"Ridgefield",900163970,"3","Fairfield County Bankcorp",2017,2018,2018,"Employer","Name"
-"Rocky Hill",900365370,"3",NA,2017,2018,2018,"Employer","Name"
-"Roxbury",900565930,"3",NA,2017,2018,2018,"Employer","Name"
-"Salem",901166210,"3","1 New London Rd Shopping Center",2017,2018,2018,"Employer","Name"
-"Salisbury",900566420,"3",NA,2017,2018,2018,"Employer","Name"
-"Scotland",901567400,"3",NA,2017,2018,2018,"Employer","Name"
-"Seymour",900967610,"3",NA,2017,2018,2018,"Employer","Name"
-"Sharon",900567960,"3",NA,2017,2018,2018,"Employer","Name"
-"Shelton",900168170,"3",NA,2017,2018,2018,"Employer","Name"
-"Sherman",900168310,"3",NA,2017,2018,2018,"Employer","Name"
-"Simsbury",900368940,"3","Ticket Network",2017,2018,2018,"Employer","Name"
-"Somers",901369220,"3",NA,2017,2018,2018,"Employer","Name"
-"South Windsor",900371390,"3",NA,2017,2018,2018,"Employer","Name"
-"Southbury",900969640,"3",NA,2017,2018,2018,"Employer","Name"
-"Southington",900370550,"3","Webster Bank",2017,2018,2018,"Employer","Name"
-"Sprague",901171670,"3",NA,2017,2018,2018,"Employer","Name"
-"Stafford",901372090,"3","TTM Technologies",2017,2018,2018,"Employer","Name"
-"Stamford",900173070,"3","Charter Communications",2017,2018,2018,"Employer","Name"
-"Sterling",901573420,"3",NA,2017,2018,2018,"Employer","Name"
-"Stonington",901173770,"3",NA,2017,2018,2018,"Employer","Name"
-"Stratford",900174190,"3",NA,2017,2018,2018,"Employer","Name"
-"Suffield",900374540,"3",NA,2017,2018,2018,"Employer","Name"
-"Thomaston",900575730,"3","Stewart EFI LLC",2017,2018,2018,"Employer","Name"
-"Thompson",901575870,"3",NA,2017,2018,2018,"Employer","Name"
-"Tolland",901376290,"3","Woodlake at Tolland",2017,2018,2018,"Employer","Name"
-"Torrington",900576570,"3",NA,2017,2018,2018,"Employer","Name"
-"Trumbull",900177200,"3","Unilever, Inc.",2017,2018,2018,"Employer","Name"
-"Union",901377830,"3",NA,2017,2018,2018,"Employer","Name"
-"Vernon",901378250,"3","Stop & Shop",2017,2018,2018,"Employer","Name"
-"Voluntown",901178600,"3","Charles River Labs",2017,2018,2018,"Employer","Name"
-"Wallingford",900978740,"3","Masonicare Health Center",2017,2018,2018,"Employer","Name"
-"Warren",900579510,"3",NA,2017,2018,2018,"Employer","Name"
-"Washington",900579720,"3","Glennholme Deauaux School",2017,2018,2018,"Employer","Name"
-"Waterbury",900980070,"3",NA,2017,2018,2018,"Employer","Name"
-"Waterford",901180280,"3",NA,2017,2018,2018,"Employer","Name"
-"Watertown",900580490,"3",NA,2017,2018,2018,"Employer","Name"
-"West Hartford",900382590,"3","Hospital at Hebrew Health Care",2017,2018,2018,"Employer","Name"
-"West Haven",900982870,"3",NA,2017,2018,2018,"Employer","Name"
-"Westbrook",900781680,"3","Westbrook - BOE",2017,2018,2018,"Employer","Name"
-"Weston",900183430,"3",NA,2017,2018,2018,"Employer","Name"
-"Westport",900183500,"3","Westport/Weston YMCA",2017,2018,2018,"Employer","Name"
-"Wethersfield",900384900,"3",NA,2017,2018,2018,"Employer","Name"
-"Willington",901385950,"3",NA,2017,2018,2018,"Employer","Name"
-"Wilton",900186370,"3",NA,2017,2018,2018,"Employer","Name"
-"Winchester",900586440,"3",NA,2017,2018,2018,"Employer","Name"
-"Windham",901586790,"3",NA,2017,2018,2018,"Employer","Name"
-"Windsor",900387000,"3","Amazon",2017,2018,2018,"Employer","Name"
-"Windsor Locks",900387070,"3",NA,2017,2018,2018,"Employer","Name"
-"Wolcott",900987560,"3",NA,2017,2018,2018,"Employer","Name"
-"Woodbridge",900987700,"3",NA,2017,2018,2018,"Employer","Name"
-"Woodbury",900587910,"3","Town of Woodbury",2017,2018,2018,"Employer","Name"
-"Woodstock",901588190,"3",NA,2017,2018,2018,"Employer","Name"
-"Andover",901301080,"4",NA,2017,2018,2018,"Employer","Name"
-"Ansonia",900901220,"4",NA,2017,2018,2018,"Employer","Name"
-"Ashford",901501430,"4",NA,2017,2018,2018,"Employer","Name"
-"Avon",900302060,"4",NA,2017,2018,2018,"Employer","Name"
-"Barkhamsted",900502760,"4",NA,2017,2018,2018,"Employer","Name"
-"Beacon Falls",900903250,"4","Cameo Metal Products",2017,2018,2018,"Employer","Name"
-"Berlin",900304300,"4","Comcast",2017,2018,2018,"Employer","Name"
-"Bethany",900904580,"4",NA,2017,2018,2018,"Employer","Name"
-"Bethel",900104720,"4",NA,2017,2018,2018,"Employer","Name"
-"Bethlehem",900504930,"4",NA,2017,2018,2018,"Employer","Name"
-"Bloomfield",900305910,"4","Seabury",2017,2018,2018,"Employer","Name"
-"Bolton",901306260,"4",NA,2017,2018,2018,"Employer","Name"
-"Bozrah",901106820,"4","Collins and Jewell Company",2017,2018,2018,"Employer","Name"
-"Branford",900907310,"4",NA,2017,2018,2018,"Employer","Name"
-"Bridgeport",900108070,"4",NA,2017,2018,2018,"Employer","Name"
-"Bridgewater",900508210,"4","Entergy/TLG Services",2017,2018,2018,"Employer","Name"
-"Bristol",900308490,"4",NA,2017,2018,2018,"Employer","Name"
-"Brookfield",900108980,"4",NA,2017,2018,2018,"Employer","Name"
-"Brooklyn",901509190,"4",NA,2017,2018,2018,"Employer","Name"
-"Burlington",900310100,"4",NA,2017,2018,2018,"Employer","Name"
-"Canaan",900510940,"4",NA,2017,2018,2018,"Employer","Name"
-"Canterbury",901512130,"4",NA,2017,2018,2018,"Employer","Name"
-"Canton",900312270,"4","Cherry Brook Health Center",2017,2018,2018,"Employer","Name"
-"Chaplin",901513810,"4","Zlotnicks Irving",2017,2018,2018,"Employer","Name"
-"Cheshire",900914160,"4","Macy’s Logistics",2017,2018,2018,"Employer","Name"
-"Chester",900714300,"4",NA,2017,2018,2018,"Employer","Name"
-"Clinton",900715350,"4",NA,2017,2018,2018,"Employer","Name"
-"Colchester",901115910,"4","Harrington Court",2017,2018,2018,"Employer","Name"
-"Colebrook",900516050,"4",NA,2017,2018,2018,"Employer","Name"
-"Columbia",901316400,"4",NA,2017,2018,2018,"Employer","Name"
-"Cornwall",900517240,"4",NA,2017,2018,2018,"Employer","Name"
-"Coventry",901317800,"4",NA,2017,2018,2018,"Employer","Name"
-"Cromwell",900718080,"4",NA,2017,2018,2018,"Employer","Name"
-"Danbury",900118500,"4","Danbury Hospital",2017,2018,2018,"Employer","Name"
-"Darien",900118850,"4","Wee Burn Country Club",2017,2018,2018,"Employer","Name"
-"Deep River",900719130,"4",NA,2017,2018,2018,"Employer","Name"
-"Derby",900919550,"4","Lowes",2017,2018,2018,"Employer","Name"
-"Durham",900720810,"4",NA,2017,2018,2018,"Employer","Name"
-"East Granby",900322070,"4","MB Aerospace",2017,2018,2018,"Employer","Name"
-"East Haddam",900722280,"4",NA,2017,2018,2018,"Employer","Name"
-"East Hampton",900722490,"4",NA,2017,2018,2018,"Employer","Name"
-"East Hartford",900322630,"4","Coca-Cola of Northern New England",2017,2018,2018,"Employer","Name"
-"East Haven",900922910,"4",NA,2017,2018,2018,"Employer","Name"
-"East Lyme",901123400,"4",NA,2017,2018,2018,"Employer","Name"
-"East Windsor",900324800,"4",NA,2017,2018,2018,"Employer","Name"
-"Eastford",901521860,"4",NA,2017,2018,2018,"Employer","Name"
-"Easton",900123890,"4",NA,2017,2018,2018,"Employer","Name"
-"Ellington",901325360,"4",NA,2017,2018,2018,"Employer","Name"
-"Enfield",900325990,"4",NA,2017,2018,2018,"Employer","Name"
-"Essex",900726270,"4","Leather Man LTD Inc",2017,2018,2018,"Employer","Name"
-"Fairfield",900126620,"4",NA,2017,2018,2018,"Employer","Name"
-"Farmington",900327600,"4","Connecticare",2017,2018,2018,"Employer","Name"
-"Franklin",901129910,"4",NA,2017,2018,2018,"Employer","Name"
-"Glastonbury",900331240,"4",NA,2017,2018,2018,"Employer","Name"
-"Goshen",900532290,"4",NA,2017,2018,2018,"Employer","Name"
-"Granby",900332640,"4","Granby Memorial High School",2017,2018,2018,"Employer","Name"
-"Greenwich",900133620,"4","Orograin (Bimbo Bakeries)",2017,2018,2018,"Employer","Name"
-"Griswold",901133900,"4",NA,2017,2018,2018,"Employer","Name"
-"Groton",901134250,"4","Town of Groton",2017,2018,2018,"Employer","Name"
-"Guilford",900934950,"4",NA,2017,2018,2018,"Employer","Name"
-"Haddam",900735230,"4",NA,2017,2018,2018,"Employer","Name"
-"Hamden",900935650,"4",NA,2017,2018,2018,"Employer","Name"
-"Hampton",901536000,"4",NA,2017,2018,2018,"Employer","Name"
-"Hartford",900337070,"4",NA,2017,2018,2018,"Employer","Name"
-"Hartland",900337140,"4",NA,2017,2018,2018,"Employer","Name"
-"Harwinton",900537280,"4",NA,2017,2018,2018,"Employer","Name"
-"Hebron",901337910,"4","Hebron Senior Living LLC (Colebrook Village)",2017,2018,2018,"Employer","Name"
-"Kent",900540290,"4",NA,2017,2018,2018,"Employer","Name"
-"Killingly",901540500,"4",NA,2017,2018,2018,"Employer","Name"
-"Killingworth",900740710,"4",NA,2017,2018,2018,"Employer","Name"
-"Lebanon",901142390,"4",NA,2017,2018,2018,"Employer","Name"
-"Ledyard",901142600,"4","Town of Ledyard",2017,2018,2018,"Employer","Name"
-"Lisbon",901143230,"4",NA,2017,2018,2018,"Employer","Name"
-"Litchfield",900543370,"4",NA,2017,2018,2018,"Employer","Name"
-"Lyme",901144210,"4",NA,2017,2018,2018,"Employer","Name"
-"Madison",900944560,"4",NA,2017,2018,2018,"Employer","Name"
-"Manchester",900344700,"4","Paradigm Precision",2017,2018,2018,"Employer","Name"
-"Mansfield",901344910,"4","Big Y",2017,2018,2018,"Employer","Name"
-"Marlborough",900345820,"4",NA,2017,2018,2018,"Employer","Name"
-"Meriden",900946520,"4","Carabetta Management",2017,2018,2018,"Employer","Name"
-"Middlebury",900946940,"4",NA,2017,2018,2018,"Employer","Name"
-"Middlefield",900747080,"4",NA,2017,2018,2018,"Employer","Name"
-"Middletown",900747360,"4",NA,2017,2018,2018,"Employer","Name"
-"Milford",900947535,"4",NA,2017,2018,2018,"Employer","Name"
-"Monroe",900148620,"4","Swiss Army Brands, Inc.",2017,2018,2018,"Employer","Name"
-"Montville",901148900,"4",NA,2017,2018,2018,"Employer","Name"
-"Morris",900549460,"4",NA,2017,2018,2018,"Employer","Name"
-"Naugatuck",900949950,"4",NA,2017,2018,2018,"Employer","Name"
-"New Britain",900350440,"4","Hospital for Special Care",2017,2018,2018,"Employer","Name"
-"New Canaan",900150580,"4",NA,2017,2018,2018,"Employer","Name"
-"New Fairfield",900150860,"4",NA,2017,2018,2018,"Employer","Name"
-"New Hartford",900551350,"4",NA,2017,2018,2018,"Employer","Name"
-"New Haven",900952070,"4",NA,2017,2018,2018,"Employer","Name"
-"New London",901152350,"4","US Coast Guard Academy",2017,2018,2018,"Employer","Name"
-"New Milford",900552630,"4",NA,2017,2018,2018,"Employer","Name"
-"Newington",900352140,"4","Data-Mail",2017,2018,2018,"Employer","Name"
-"Newtown",900152980,"4","Town of Newtown",2017,2018,2018,"Employer","Name"
-"Norfolk",900553470,"4",NA,2017,2018,2018,"Employer","Name"
-"North Branford",900953890,"4",NA,2017,2018,2018,"Employer","Name"
-"North Canaan",900554030,"4",NA,2017,2018,2018,"Employer","Name"
-"North Haven",900954870,"4",NA,2017,2018,2018,"Employer","Name"
-"North Stonington",901155500,"4",NA,2017,2018,2018,"Employer","Name"
-"Norwalk",900156060,"4","Stew Leonard's",2017,2018,2018,"Employer","Name"
-"Norwich",901156270,"4","Bob's Discount Furniture",2017,2018,2018,"Employer","Name"
-"Old Lyme",901157040,"4","Sennheiser",2017,2018,2018,"Employer","Name"
-"Old Saybrook",900757320,"4","Gladeview Health Care & Rehabilitation and Apple Rehabilitation",2017,2018,2018,"Employer","Name"
-"Orange",900957600,"4","Light Sources",2017,2018,2018,"Employer","Name"
-"Oxford",900958300,"4",NA,2017,2018,2018,"Employer","Name"
-"Plainfield",901559980,"4","Village Manor Associates",2017,2018,2018,"Employer","Name"
-"Plainville",900360120,"4",NA,2017,2018,2018,"Employer","Name"
-"Plymouth",900560750,"4",NA,2017,2018,2018,"Employer","Name"
-"Pomfret",901561030,"4",NA,2017,2018,2018,"Employer","Name"
-"Portland",900761800,"4","Standard Knapp",2017,2018,2018,"Employer","Name"
-"Preston",901162150,"4",NA,2017,2018,2018,"Employer","Name"
-"Prospect",900962290,"4",NA,2017,2018,2018,"Employer","Name"
-"Putnam",901562710,"4",NA,2017,2018,2018,"Employer","Name"
-"Redding",900163480,"4",NA,2017,2018,2018,"Employer","Name"
-"Ridgefield",900163970,"4","Stop & Shop",2017,2018,2018,"Employer","Name"
-"Rocky Hill",900365370,"4",NA,2017,2018,2018,"Employer","Name"
-"Roxbury",900565930,"4",NA,2017,2018,2018,"Employer","Name"
-"Salem",901166210,"4","20 Hartford Rd Shopping Center",2017,2018,2018,"Employer","Name"
-"Salisbury",900566420,"4",NA,2017,2018,2018,"Employer","Name"
-"Scotland",901567400,"4",NA,2017,2018,2018,"Employer","Name"
-"Seymour",900967610,"4",NA,2017,2018,2018,"Employer","Name"
-"Sharon",900567960,"4",NA,2017,2018,2018,"Employer","Name"
-"Shelton",900168170,"4",NA,2017,2018,2018,"Employer","Name"
-"Sherman",900168310,"4",NA,2017,2018,2018,"Employer","Name"
-"Simsbury",900368940,"4","The May Company",2017,2018,2018,"Employer","Name"
-"Somers",901369220,"4",NA,2017,2018,2018,"Employer","Name"
-"South Windsor",900371390,"4",NA,2017,2018,2018,"Employer","Name"
-"Southbury",900969640,"4",NA,2017,2018,2018,"Employer","Name"
-"Southington",900370550,"4","Hartford Healthcare",2017,2018,2018,"Employer","Name"
-"Sprague",901171670,"4",NA,2017,2018,2018,"Employer","Name"
-"Stafford",901372090,"4","3M Purification Inc.",2017,2018,2018,"Employer","Name"
-"Stamford",900173070,"4","Deloitte",2017,2018,2018,"Employer","Name"
-"Sterling",901573420,"4",NA,2017,2018,2018,"Employer","Name"
-"Stonington",901173770,"4",NA,2017,2018,2018,"Employer","Name"
-"Stratford",900174190,"4",NA,2017,2018,2018,"Employer","Name"
-"Suffield",900374540,"4",NA,2017,2018,2018,"Employer","Name"
-"Thomaston",900575730,"4","Whyco Finishing Tech LLC",2017,2018,2018,"Employer","Name"
-"Thompson",901575870,"4",NA,2017,2018,2018,"Employer","Name"
-"Tolland",901376290,"4","Big Y",2017,2018,2018,"Employer","Name"
-"Torrington",900576570,"4",NA,2017,2018,2018,"Employer","Name"
-"Trumbull",900177200,"4","Marriott Hotel",2017,2018,2018,"Employer","Name"
-"Union",901377830,"4",NA,2017,2018,2018,"Employer","Name"
-"Vernon",901378250,"4","Vernon Manor",2017,2018,2018,"Employer","Name"
-"Voluntown",901178600,"4","Bronson's True Value",2017,2018,2018,"Employer","Name"
-"Wallingford",900978740,"4","Gaylord Hospital",2017,2018,2018,"Employer","Name"
-"Warren",900579510,"4",NA,2017,2018,2018,"Employer","Name"
-"Washington",900579720,"4","Rumsey Hall School",2017,2018,2018,"Employer","Name"
-"Waterbury",900980070,"4",NA,2017,2018,2018,"Employer","Name"
-"Waterford",901180280,"4",NA,2017,2018,2018,"Employer","Name"
-"Watertown",900580490,"4",NA,2017,2018,2018,"Employer","Name"
-"West Hartford",900382590,"4","Legrand Wiremold",2017,2018,2018,"Employer","Name"
-"West Haven",900982870,"4",NA,2017,2018,2018,"Employer","Name"
-"Westbrook",900781680,"4","IPC Systems",2017,2018,2018,"Employer","Name"
-"Weston",900183430,"4",NA,2017,2018,2018,"Employer","Name"
-"Westport",900183500,"4","Town of Westport",2017,2018,2018,"Employer","Name"
-"Wethersfield",900384900,"4",NA,2017,2018,2018,"Employer","Name"
-"Willington",901385950,"4",NA,2017,2018,2018,"Employer","Name"
-"Wilton",900186370,"4",NA,2017,2018,2018,"Employer","Name"
-"Winchester",900586440,"4",NA,2017,2018,2018,"Employer","Name"
-"Windham",901586790,"4",NA,2017,2018,2018,"Employer","Name"
-"Windsor",900387000,"4","GE Power",2017,2018,2018,"Employer","Name"
-"Windsor Locks",900387070,"4",NA,2017,2018,2018,"Employer","Name"
-"Wolcott",900987560,"4",NA,2017,2018,2018,"Employer","Name"
-"Woodbridge",900987700,"4",NA,2017,2018,2018,"Employer","Name"
-"Woodbury",900587910,"4","LaBonne's Epicure Market",2017,2018,2018,"Employer","Name"
-"Woodstock",901588190,"4",NA,2017,2018,2018,"Employer","Name"
-"Andover",901301080,"5",NA,2017,2018,2018,"Employer","Name"
-"Ansonia",900901220,"5",NA,2017,2018,2018,"Employer","Name"
-"Ashford",901501430,"5",NA,2017,2018,2018,"Employer","Name"
-"Avon",900302060,"5",NA,2017,2018,2018,"Employer","Name"
-"Barkhamsted",900502760,"5",NA,2017,2018,2018,"Employer","Name"
-"Beacon Falls",900903250,"5","Ansonia Steel",2017,2018,2018,"Employer","Name"
-"Berlin",900304300,"5","B&F machine",2017,2018,2018,"Employer","Name"
-"Bethany",900904580,"5",NA,2017,2018,2018,"Employer","Name"
-"Bethel",900104720,"5",NA,2017,2018,2018,"Employer","Name"
-"Bethlehem",900504930,"5",NA,2017,2018,2018,"Employer","Name"
-"Bloomfield",900305910,"5","Jacobs Vehicle Systems",2017,2018,2018,"Employer","Name"
-"Bolton",901306260,"5",NA,2017,2018,2018,"Employer","Name"
-"Bozrah",901106820,"5","Town of Bozrah Board of Education",2017,2018,2018,"Employer","Name"
-"Branford",900907310,"5",NA,2017,2018,2018,"Employer","Name"
-"Bridgeport",900108070,"5",NA,2017,2018,2018,"Employer","Name"
-"Bridgewater",900508210,"5","GL Bollard/Maywood Farm/Bridgewater Village Store",2017,2018,2018,"Employer","Name"
-"Bristol",900308490,"5",NA,2017,2018,2018,"Employer","Name"
-"Brookfield",900108980,"5",NA,2017,2018,2018,"Employer","Name"
-"Brooklyn",901509190,"5",NA,2017,2018,2018,"Employer","Name"
-"Burlington",900310100,"5",NA,2017,2018,2018,"Employer","Name"
-"Canaan",900510940,"5",NA,2017,2018,2018,"Employer","Name"
-"Canterbury",901512130,"5",NA,2017,2018,2018,"Employer","Name"
-"Canton",900312270,"5","Kohls",2017,2018,2018,"Employer","Name"
-"Chaplin",901513810,"5","Dunkin Donuts",2017,2018,2018,"Employer","Name"
-"Cheshire",900914160,"5","Collins Aerospace",2017,2018,2018,"Employer","Name"
-"Chester",900714300,"5",NA,2017,2018,2018,"Employer","Name"
-"Clinton",900715350,"5",NA,2017,2018,2018,"Employer","Name"
-"Colchester",901115910,"5","Alpha Q",2017,2018,2018,"Employer","Name"
-"Colebrook",900516050,"5",NA,2017,2018,2018,"Employer","Name"
-"Columbia",901316400,"5",NA,2017,2018,2018,"Employer","Name"
-"Cornwall",900517240,"5",NA,2017,2018,2018,"Employer","Name"
-"Coventry",901317800,"5",NA,2017,2018,2018,"Employer","Name"
-"Cromwell",900718080,"5",NA,2017,2018,2018,"Employer","Name"
-"Danbury",900118500,"5","Fuel Cell Energy",2017,2018,2018,"Employer","Name"
-"Darien",900118850,"5","Ring’s End, Inc.",2017,2018,2018,"Employer","Name"
-"Deep River",900719130,"5",NA,2017,2018,2018,"Employer","Name"
-"Derby",900919550,"5","City of Derby",2017,2018,2018,"Employer","Name"
-"Durham",900720810,"5",NA,2017,2018,2018,"Employer","Name"
-"East Granby",900322070,"5","Nufern",2017,2018,2018,"Employer","Name"
-"East Haddam",900722280,"5",NA,2017,2018,2018,"Employer","Name"
-"East Hampton",900722490,"5",NA,2017,2018,2018,"Employer","Name"
-"East Hartford",900322630,"5","Riverside Health Center",2017,2018,2018,"Employer","Name"
-"East Haven",900922910,"5",NA,2017,2018,2018,"Employer","Name"
-"East Lyme",901123400,"5",NA,2017,2018,2018,"Employer","Name"
-"East Windsor",900324800,"5",NA,2017,2018,2018,"Employer","Name"
-"Eastford",901521860,"5",NA,2017,2018,2018,"Employer","Name"
-"Easton",900123890,"5",NA,2017,2018,2018,"Employer","Name"
-"Ellington",901325360,"5",NA,2017,2018,2018,"Employer","Name"
-"Enfield",900325990,"5",NA,2017,2018,2018,"Employer","Name"
-"Essex",900726270,"5","Tower Laboratories",2017,2018,2018,"Employer","Name"
-"Fairfield",900126620,"5",NA,2017,2018,2018,"Employer","Name"
-"Farmington",900327600,"5","Town of Farmington/ BOE",2017,2018,2018,"Employer","Name"
-"Franklin",901129910,"5",NA,2017,2018,2018,"Employer","Name"
-"Glastonbury",900331240,"5",NA,2017,2018,2018,"Employer","Name"
-"Goshen",900532290,"5",NA,2017,2018,2018,"Employer","Name"
-"Granby",900332640,"5","Monrovia Nursery Co.",2017,2018,2018,"Employer","Name"
-"Greenwich",900133620,"5","Interactive Brokers",2017,2018,2018,"Employer","Name"
-"Griswold",901133900,"5",NA,2017,2018,2018,"Employer","Name"
-"Groton",901134250,"5","1109th TASMG - CT Army National Guard",2017,2018,2018,"Employer","Name"
-"Guilford",900934950,"5",NA,2017,2018,2018,"Employer","Name"
-"Haddam",900735230,"5",NA,2017,2018,2018,"Employer","Name"
-"Hamden",900935650,"5",NA,2017,2018,2018,"Employer","Name"
-"Hampton",901536000,"5",NA,2017,2018,2018,"Employer","Name"
-"Hartford",900337070,"5",NA,2017,2018,2018,"Employer","Name"
-"Hartland",900337140,"5",NA,2017,2018,2018,"Employer","Name"
-"Harwinton",900537280,"5",NA,2017,2018,2018,"Employer","Name"
-"Hebron",901337910,"5","Ted's Supermarket",2017,2018,2018,"Employer","Name"
-"Kent",900540290,"5",NA,2017,2018,2018,"Employer","Name"
-"Killingly",901540500,"5",NA,2017,2018,2018,"Employer","Name"
-"Killingworth",900740710,"5",NA,2017,2018,2018,"Employer","Name"
-"Lebanon",901142390,"5",NA,2017,2018,2018,"Employer","Name"
-"Ledyard",901142600,"5","CVS",2017,2018,2018,"Employer","Name"
-"Lisbon",901143230,"5",NA,2017,2018,2018,"Employer","Name"
-"Litchfield",900543370,"5",NA,2017,2018,2018,"Employer","Name"
-"Lyme",901144210,"5",NA,2017,2018,2018,"Employer","Name"
-"Madison",900944560,"5",NA,2017,2018,2018,"Employer","Name"
-"Manchester",900344700,"5","Manchester Community College",2017,2018,2018,"Employer","Name"
-"Mansfield",901344910,"5","Mansfield Center for Nursing & Rehab",2017,2018,2018,"Employer","Name"
-"Marlborough",900345820,"5",NA,2017,2018,2018,"Employer","Name"
-"Meriden",900946520,"5","Mirion Technologies",2017,2018,2018,"Employer","Name"
-"Middlebury",900946940,"5",NA,2017,2018,2018,"Employer","Name"
-"Middlefield",900747080,"5",NA,2017,2018,2018,"Employer","Name"
-"Middletown",900747360,"5",NA,2017,2018,2018,"Employer","Name"
-"Milford",900947535,"5",NA,2017,2018,2018,"Employer","Name"
-"Monroe",900148620,"5","Northeast Laser Engraving, Inc.",2017,2018,2018,"Employer","Name"
-"Montville",901148900,"5",NA,2017,2018,2018,"Employer","Name"
-"Morris",900549460,"5",NA,2017,2018,2018,"Employer","Name"
-"Naugatuck",900949950,"5",NA,2017,2018,2018,"Employer","Name"
-"New Britain",900350440,"5","Stanley Black & Decker",2017,2018,2018,"Employer","Name"
-"New Canaan",900150580,"5",NA,2017,2018,2018,"Employer","Name"
-"New Fairfield",900150860,"5",NA,2017,2018,2018,"Employer","Name"
-"New Hartford",900551350,"5",NA,2017,2018,2018,"Employer","Name"
-"New Haven",900952070,"5",NA,2017,2018,2018,"Employer","Name"
-"New London",901152350,"5","Mitchell College",2017,2018,2018,"Employer","Name"
-"New Milford",900552630,"5",NA,2017,2018,2018,"Employer","Name"
-"Newington",900352140,"5","U.S. Veteran's Hospital Medical Center",2017,2018,2018,"Employer","Name"
-"Newtown",900152980,"5","Big Y Supermarkets",2017,2018,2018,"Employer","Name"
-"Norfolk",900553470,"5",NA,2017,2018,2018,"Employer","Name"
-"North Branford",900953890,"5",NA,2017,2018,2018,"Employer","Name"
-"North Canaan",900554030,"5",NA,2017,2018,2018,"Employer","Name"
-"North Haven",900954870,"5",NA,2017,2018,2018,"Employer","Name"
-"North Stonington",901155500,"5",NA,2017,2018,2018,"Employer","Name"
-"Norwalk",900156060,"5","MBI",2017,2018,2018,"Employer","Name"
-"Norwich",901156270,"5","U.S. Food Service",2017,2018,2018,"Employer","Name"
-"Old Lyme",901157040,"5","Kellogg Marine",2017,2018,2018,"Employer","Name"
-"Old Saybrook",900757320,"5","From You Flowers/Eve's Addiction",2017,2018,2018,"Employer","Name"
-"Orange",900957600,"5","Dichello Distributors",2017,2018,2018,"Employer","Name"
-"Oxford",900958300,"5",NA,2017,2018,2018,"Employer","Name"
-"Plainfield",901559980,"5","Staples",2017,2018,2018,"Employer","Name"
-"Plainville",900360120,"5",NA,2017,2018,2018,"Employer","Name"
-"Plymouth",900560750,"5",NA,2017,2018,2018,"Employer","Name"
-"Pomfret",901561030,"5",NA,2017,2018,2018,"Employer","Name"
-"Portland",900761800,"5","Adam's Hometown Market",2017,2018,2018,"Employer","Name"
-"Preston",901162150,"5",NA,2017,2018,2018,"Employer","Name"
-"Prospect",900962290,"5",NA,2017,2018,2018,"Employer","Name"
-"Putnam",901562710,"5",NA,2017,2018,2018,"Employer","Name"
-"Redding",900163480,"5",NA,2017,2018,2018,"Employer","Name"
-"Ridgefield",900163970,"5","Ridgefield Crossings",2017,2018,2018,"Employer","Name"
-"Rocky Hill",900365370,"5",NA,2017,2018,2018,"Employer","Name"
-"Roxbury",900565930,"5",NA,2017,2018,2018,"Employer","Name"
-"Salem",901166210,"5","24 Hartford Rd Shopping Center",2017,2018,2018,"Employer","Name"
-"Salisbury",900566420,"5",NA,2017,2018,2018,"Employer","Name"
-"Scotland",901567400,"5",NA,2017,2018,2018,"Employer","Name"
-"Seymour",900967610,"5",NA,2017,2018,2018,"Employer","Name"
-"Sharon",900567960,"5",NA,2017,2018,2018,"Employer","Name"
-"Shelton",900168170,"5",NA,2017,2018,2018,"Employer","Name"
-"Sherman",900168310,"5",NA,2017,2018,2018,"Employer","Name"
-"Simsbury",900368940,"5","Doosan Fuel Cell America",2017,2018,2018,"Employer","Name"
-"Somers",901369220,"5",NA,2017,2018,2018,"Employer","Name"
-"South Windsor",900371390,"5",NA,2017,2018,2018,"Employer","Name"
-"Southbury",900969640,"5",NA,2017,2018,2018,"Employer","Name"
-"Southington",900370550,"5","Yarde Metals",2017,2018,2018,"Employer","Name"
-"Sprague",901171670,"5",NA,2017,2018,2018,"Employer","Name"
-"Stafford",901372090,"5","WIllington Name Plate",2017,2018,2018,"Employer","Name"
-"Stamford",900173070,"5","Indeed.com",2017,2018,2018,"Employer","Name"
-"Sterling",901573420,"5",NA,2017,2018,2018,"Employer","Name"
-"Stonington",901173770,"5",NA,2017,2018,2018,"Employer","Name"
-"Stratford",900174190,"5",NA,2017,2018,2018,"Employer","Name"
-"Suffield",900374540,"5",NA,2017,2018,2018,"Employer","Name"
-"Thomaston",900575730,"5","Quality Rolling & Deburring Co",2017,2018,2018,"Employer","Name"
-"Thompson",901575870,"5",NA,2017,2018,2018,"Employer","Name"
-"Tolland",901376290,"5","CNC Software",2017,2018,2018,"Employer","Name"
-"Torrington",900576570,"5",NA,2017,2018,2018,"Employer","Name"
-"Trumbull",900177200,"5","St. Joseph’s Manor",2017,2018,2018,"Employer","Name"
-"Union",901377830,"5",NA,2017,2018,2018,"Employer","Name"
-"Vernon",901378250,"5","Reins Deli",2017,2018,2018,"Employer","Name"
-"Voluntown",901178600,"5","Dunkin Donuts",2017,2018,2018,"Employer","Name"
-"Wallingford",900978740,"5","Community Health Network of CT, Inc.",2017,2018,2018,"Employer","Name"
-"Warren",900579510,"5",NA,2017,2018,2018,"Employer","Name"
-"Washington",900579720,"5","Washington Supply Company",2017,2018,2018,"Employer","Name"
-"Waterbury",900980070,"5",NA,2017,2018,2018,"Employer","Name"
-"Waterford",901180280,"5",NA,2017,2018,2018,"Employer","Name"
-"Watertown",900580490,"5",NA,2017,2018,2018,"Employer","Name"
-"West Hartford",900382590,"5","Triumph Engine Control Systems",2017,2018,2018,"Employer","Name"
-"West Haven",900982870,"5",NA,2017,2018,2018,"Employer","Name"
-"Westbrook",900781680,"5","SHM Pilots Point LLC",2017,2018,2018,"Employer","Name"
-"Weston",900183430,"5",NA,2017,2018,2018,"Employer","Name"
-"Westport",900183500,"5","Greens Farms Academy",2017,2018,2018,"Employer","Name"
-"Wethersfield",900384900,"5",NA,2017,2018,2018,"Employer","Name"
-"Willington",901385950,"5",NA,2017,2018,2018,"Employer","Name"
-"Wilton",900186370,"5",NA,2017,2018,2018,"Employer","Name"
-"Winchester",900586440,"5",NA,2017,2018,2018,"Employer","Name"
-"Windham",901586790,"5",NA,2017,2018,2018,"Employer","Name"
-"Windsor",900387000,"5","Walgreens Co.",2017,2018,2018,"Employer","Name"
-"Windsor Locks",900387070,"5",NA,2017,2018,2018,"Employer","Name"
-"Wolcott",900987560,"5",NA,2017,2018,2018,"Employer","Name"
-"Woodbridge",900987700,"5",NA,2017,2018,2018,"Employer","Name"
-"Woodbury",900587910,"5","Woodbury Chevrolet",2017,2018,2018,"Employer","Name"
-"Woodstock",901588190,"5",NA,2017,2018,2018,"Employer","Name"
+Town,FIPS,Rank,Value,Year,Year Submitted,Town Profile Year,Variable,Measure Type
+Andover,901301080,1,NA,2017,2018,2018,Employer,Name
+Ansonia,900901220,1,NA,2017,2018,2018,Employer,Name
+Ashford,901501430,1,NA,2017,2018,2018,Employer,Name
+Avon,900302060,1,NA,2017,2018,2018,Employer,Name
+Barkhamsted,900502760,1,NA,2017,2018,2018,Employer,Name
+Beacon Falls,900903250,1,NEJ,2017,2018,2018,Employer,Name
+Berlin,900304300,1,Eversource,2017,2018,2018,Employer,Name
+Bethany,900904580,1,NA,2017,2018,2018,Employer,Name
+Bethel,900104720,1,NA,2017,2018,2018,Employer,Name
+Bethlehem,900504930,1,NA,2017,2018,2018,Employer,Name
+Bloomfield,900305910,1,CIGNA (all divisions),2017,2018,2018,Employer,Name
+Bolton,901306260,1,NA,2017,2018,2018,Employer,Name
+Bozrah,901106820,1,Hillendale Farms Egg Production,2017,2018,2018,Employer,Name
+Branford,900907310,1,NA,2017,2018,2018,Employer,Name
+Bridgeport,900108070,1,NA,2017,2018,2018,Employer,Name
+Bridgewater,900508210,1,Town of Bridgewater,2017,2018,2018,Employer,Name
+Bristol,900308490,1,NA,2017,2018,2018,Employer,Name
+Brookfield,900108980,1,NA,2017,2018,2018,Employer,Name
+Brooklyn,901509190,1,NA,2017,2018,2018,Employer,Name
+Burlington,900310100,1,NA,2017,2018,2018,Employer,Name
+Canaan,900510940,1,NA,2017,2018,2018,Employer,Name
+Canterbury,901512130,1,NA,2017,2018,2018,Employer,Name
+Canton,900312270,1,Town of Canton,2017,2018,2018,Employer,Name
+Chaplin,901513810,1,Chaplin Elementary School,2017,2018,2018,Employer,Name
+Cheshire,900914160,1,Bozzuto’s Inc.,2017,2018,2018,Employer,Name
+Chester,900714300,1,NA,2017,2018,2018,Employer,Name
+Clinton,900715350,1,NA,2017,2018,2018,Employer,Name
+Colchester,901115910,1,S&S Arts and Crafts Factory,2017,2018,2018,Employer,Name
+Colebrook,900516050,1,NA,2017,2018,2018,Employer,Name
+Columbia,901316400,1,NA,2017,2018,2018,Employer,Name
+Cornwall,900517240,1,NA,2017,2018,2018,Employer,Name
+Coventry,901317800,1,NA,2017,2018,2018,Employer,Name
+Cromwell,900718080,1,NA,2017,2018,2018,Employer,Name
+Danbury,900118500,1,Quintiles IMS,2017,2018,2018,Employer,Name
+Darien,900118850,1,Town of Darien,2017,2018,2018,Employer,Name
+Deep River,900719130,1,NA,2017,2018,2018,Employer,Name
+Derby,900919550,1,Griffin Hospital,2017,2018,2018,Employer,Name
+Durham,900720810,1,NA,2017,2018,2018,Employer,Name
+East Granby,900322070,1,Air National Guard,2017,2018,2018,Employer,Name
+East Haddam,900722280,1,NA,2017,2018,2018,Employer,Name
+East Hampton,900722490,1,NA,2017,2018,2018,Employer,Name
+East Hartford,900322630,1,Pratt & Whitney,2017,2018,2018,Employer,Name
+East Haven,900922910,1,NA,2017,2018,2018,Employer,Name
+East Lyme,901123400,1,NA,2017,2018,2018,Employer,Name
+East Windsor,900324800,1,NA,2017,2018,2018,Employer,Name
+Eastford,901521860,1,NA,2017,2018,2018,Employer,Name
+Easton,900123890,1,NA,2017,2018,2018,Employer,Name
+Ellington,901325360,1,NA,2017,2018,2018,Employer,Name
+Enfield,900325990,1,NA,2017,2018,2018,Employer,Name
+Essex,900726270,1,Essex Meadows Lifecare,2017,2018,2018,Employer,Name
+Fairfield,900126620,1,NA,2017,2018,2018,Employer,Name
+Farmington,900327600,1,UConn Health,2017,2018,2018,Employer,Name
+Franklin,901129910,1,Hillandale,2017,2018,2018,Employer,Name
+Glastonbury,900331240,1,NA,2017,2018,2018,Employer,Name
+Goshen,900532290,1,NA,2017,2018,2018,Employer,Name
+Granby,900332640,1,Meadow Brook of Granby,2017,2018,2018,Employer,Name
+Greenwich,900133620,1,Town of Greenwich,2017,2018,2018,Employer,Name
+Griswold,901133900,1,NA,2017,2018,2018,Employer,Name
+Groton,901134250,1,Electric Boat Corporation,2017,2018,2018,Employer,Name
+Guilford,900934950,1,NA,2017,2018,2018,Employer,Name
+Haddam,900735230,1,NA,2017,2018,2018,Employer,Name
+Hamden,900935650,1,NA,2017,2018,2018,Employer,Name
+Hampton,901536000,1,NA,2017,2018,2018,Employer,Name
+Hartford,900337070,1,NA,2017,2018,2018,Employer,Name
+Hartland,900337140,1,NA,2017,2018,2018,Employer,Name
+Harwinton,900537280,1,NA,2017,2018,2018,Employer,Name
+Hebron,901337910,1,RHAM Board of Education,2017,2018,2018,Employer,Name
+Kent,900540290,1,NA,2017,2018,2018,Employer,Name
+Killingly,901540500,1,NA,2017,2018,2018,Employer,Name
+Killingworth,900740710,1,NA,2017,2018,2018,Employer,Name
+Lebanon,901142390,1,NA,2017,2018,2018,Employer,Name
+Ledyard,901142600,1,Foxwoods Resort Casino,2017,2018,2018,Employer,Name
+Lisbon,901143230,1,NA,2017,2018,2018,Employer,Name
+Litchfield,900543370,1,NA,2017,2018,2018,Employer,Name
+Lyme,901144210,1,reynolds subaru and marine,2017,2018,2018,Employer,Name
+Madison,900944560,1,NA,2017,2018,2018,Employer,Name
+Manchester,900344700,1,Prospect ECHN,2017,2018,2018,Employer,Name
+Mansfield,901344910,1,University of Connecticut,2017,2018,2018,Employer,Name
+Marlborough,900345820,1,NA,2017,2018,2018,Employer,Name
+Meriden,900946520,1,Midstate Medical Center,2017,2018,2018,Employer,Name
+Middlebury,900946940,1,NA,2017,2018,2018,Employer,Name
+Middlefield,900747080,1,NA,2017,2018,2018,Employer,Name
+Middletown,900747360,1,NA,2017,2018,2018,Employer,Name
+Milford,900947535,1,NA,2017,2018,2018,Employer,Name
+Monroe,900148620,1,Town of Monroe,2017,2018,2018,Employer,Name
+Montville,901148900,1,NA,2017,2018,2018,Employer,Name
+Morris,900549460,1,NA,2017,2018,2018,Employer,Name
+Naugatuck,900949950,1,NA,2017,2018,2018,Employer,Name
+New Britain,900350440,1,Hospital of Central Connecticut,2017,2018,2018,Employer,Name
+New Canaan,900150580,1,NA,2017,2018,2018,Employer,Name
+New Fairfield,900150860,1,NA,2017,2018,2018,Employer,Name
+New Hartford,900551350,1,NA,2017,2018,2018,Employer,Name
+New Haven,900952070,1,NA,2017,2018,2018,Employer,Name
+New London,901152350,1,Electric Boat Corp,2017,2018,2018,Employer,Name
+New Milford,900552630,1,NA,2017,2018,2018,Employer,Name
+Newington,900352140,1,Town of Newington,2017,2018,2018,Employer,Name
+Newtown,900152980,1,Town of Newtown - Board of Education,2017,2018,2018,Employer,Name
+Norfolk,900553470,1,NA,2017,2018,2018,Employer,Name
+North Branford,900953890,1,NA,2017,2018,2018,Employer,Name
+North Canaan,900554030,1,Becton-Dickinson,2017,2018,2018,Employer,Name
+North Haven,900954870,1,NA,2017,2018,2018,Employer,Name
+North Stonington,901155500,1,NA,2017,2018,2018,Employer,Name
+Norwalk,900156060,1,Western Connecticut Health Network (Norwalk Hospital),2017,2018,2018,Employer,Name
+Norwich,901156270,1,William W. Backus Hospital,2017,2018,2018,Employer,Name
+Old Lyme,901157040,1,Project LEARN,2017,2018,2018,Employer,Name
+Old Saybrook,900757320,1,Saybrook Point Inn & Spa,2017,2018,2018,Employer,Name
+Orange,900957600,1,United Illuminating,2017,2018,2018,Employer,Name
+Oxford,900958300,1,NA,2017,2018,2018,Employer,Name
+Plainfield,901559980,1,Town of Plainfield,2017,2018,2018,Employer,Name
+Plainville,900360120,1,NA,2017,2018,2018,Employer,Name
+Plymouth,900560750,1,NA,2017,2018,2018,Employer,Name
+Pomfret,901561030,1,NA,2017,2018,2018,Employer,Name
+Portland,900761800,1,Town of Portland,2017,2018,2018,Employer,Name
+Preston,901162150,1,NA,2017,2018,2018,Employer,Name
+Prospect,900962290,1,NA,2017,2018,2018,Employer,Name
+Putnam,901562710,1,NA,2017,2018,2018,Employer,Name
+Redding,900163480,1,NA,2017,2018,2018,Employer,Name
+Ridgefield,900163970,1,Boehringer-Ingelheim,2017,2018,2018,Employer,Name
+Rocky Hill,900365370,1,NA,2017,2018,2018,Employer,Name
+Roxbury,900565930,1,NA,2017,2018,2018,Employer,Name
+Salem,901166210,1,Salem Elementary School,2017,2018,2018,Employer,Name
+Salisbury,900566420,1,NA,2017,2018,2018,Employer,Name
+Scotland,901567400,1,NA,2017,2018,2018,Employer,Name
+Seymour,900967610,1,NA,2017,2018,2018,Employer,Name
+Sharon,900567960,1,NA,2017,2018,2018,Employer,Name
+Shelton,900168170,1,NA,2017,2018,2018,Employer,Name
+Sherman,900168310,1,NA,2017,2018,2018,Employer,Name
+Simsbury,900368940,1,Hartford Life Insurance Co,2017,2014,2018,Employer,Name
+Somers,901369220,1,NA,2017,2018,2018,Employer,Name
+South Windsor,900371390,1,NA,2017,2018,2018,Employer,Name
+Southbury,900969640,1,NA,2017,2018,2018,Employer,Name
+Southington,900370550,1,Town of Southington,2017,2018,2018,Employer,Name
+Sprague,901171670,1,NA,2017,2018,2018,Employer,Name
+Stafford,901372090,1,Johnson Memorial Hospital,2017,2018,2018,Employer,Name
+Stamford,900173070,1,Stamford Health,2017,2018,2018,Employer,Name
+Sterling,901573420,1,NA,2017,2018,2018,Employer,Name
+Stonington,901173770,1,NA,2017,2018,2018,Employer,Name
+Stratford,900174190,1,NA,2017,2018,2018,Employer,Name
+Suffield,900374540,1,NA,2017,2018,2018,Employer,Name
+Thomaston,900575730,1,Albea,2017,2018,2018,Employer,Name
+Thompson,901575870,1,NA,2017,2018,2018,Employer,Name
+Tolland,901376290,1,Town of Tolland,2017,2018,2018,Employer,Name
+Torrington,900576570,1,NA,2017,2018,2018,Employer,Name
+Trumbull,900177200,1,Westfield Trumbull Mall,2017,2018,2018,Employer,Name
+Union,901377830,1,NA,2017,2018,2018,Employer,Name
+Vernon,901378250,1,Town of Vernon,2017,2018,2018,Employer,Name
+Voluntown,901178600,1,Voluntown Elementary,2017,2018,2018,Employer,Name
+Wallingford,900978740,1,Town of Wallingford,2017,2018,2018,Employer,Name
+Warren,900579510,1,NA,2017,2018,2018,Employer,Name
+Washington,900579720,1,The Gunnery School,2017,2018,2018,Employer,Name
+Waterbury,900980070,1,NA,2017,2018,2018,Employer,Name
+Waterford,901180280,1,NA,2017,2018,2018,Employer,Name
+Watertown,900580490,1,NA,2017,2018,2018,Employer,Name
+West Hartford,900382590,1,University of Hartford,2017,2018,2018,Employer,Name
+West Haven,900982870,1,NA,2017,2018,2018,Employer,Name
+Westbrook,900781680,1,The Lee Company,2017,2018,2018,Employer,Name
+Weston,900183430,1,NA,2017,2018,2018,Employer,Name
+Westport,900183500,1,Bridgewater Associates,2017,2018,2018,Employer,Name
+Wethersfield,900384900,1,NA,2017,2018,2018,Employer,Name
+Willington,901385950,1,NA,2017,2018,2018,Employer,Name
+Wilton,900186370,1,NA,2017,2018,2018,Employer,Name
+Winchester,900586440,1,NA,2017,2018,2018,Employer,Name
+Windham,901586790,1,NA,2017,2018,2018,Employer,Name
+Windsor,900387000,1,The Hartford,2017,2018,2018,Employer,Name
+Windsor Locks,900387070,1,NA,2017,2018,2018,Employer,Name
+Wolcott,900987560,1,NA,2017,2018,2018,Employer,Name
+Woodbridge,900987700,1,NA,2017,2018,2018,Employer,Name
+Woodbury,900587910,1,Regional School District 14,2017,2018,2018,Employer,Name
+Woodstock,901588190,1,NA,2017,2018,2018,Employer,Name
+Andover,901301080,2,NA,2017,2018,2018,Employer,Name
+Ansonia,900901220,2,NA,2017,2018,2018,Employer,Name
+Ashford,901501430,2,NA,2017,2018,2018,Employer,Name
+Avon,900302060,2,NA,2017,2018,2018,Employer,Name
+Barkhamsted,900502760,2,NA,2017,2018,2018,Employer,Name
+Beacon Falls,900903250,2,DiGiorgi,2017,2018,2018,Employer,Name
+Berlin,900304300,2,Assa Abloy,2017,2018,2018,Employer,Name
+Bethany,900904580,2,NA,2017,2018,2018,Employer,Name
+Bethel,900104720,2,NA,2017,2018,2018,Employer,Name
+Bethlehem,900504930,2,NA,2017,2018,2018,Employer,Name
+Bloomfield,900305910,2,KAMAN (all divisions),2017,2018,2018,Employer,Name
+Bolton,901306260,2,NA,2017,2018,2018,Employer,Name
+Bozrah,901106820,2,United Parcel Service,2017,2018,2018,Employer,Name
+Branford,900907310,2,NA,2017,2018,2018,Employer,Name
+Bridgeport,900108070,2,NA,2017,2018,2018,Employer,Name
+Bridgewater,900508210,2,Region 12 School District,2017,2018,2018,Employer,Name
+Bristol,900308490,2,NA,2017,2018,2018,Employer,Name
+Brookfield,900108980,2,NA,2017,2018,2018,Employer,Name
+Brooklyn,901509190,2,NA,2017,2018,2018,Employer,Name
+Burlington,900310100,2,NA,2017,2018,2018,Employer,Name
+Canaan,900510940,2,NA,2017,2018,2018,Employer,Name
+Canterbury,901512130,2,NA,2017,2018,2018,Employer,Name
+Canton,900312270,2,Favarh,2017,2018,2018,Employer,Name
+Chaplin,901513810,2,CT Casket Company LLC,2017,2018,2018,Employer,Name
+Cheshire,900914160,2,Town of Cheshire,2017,2018,2018,Employer,Name
+Chester,900714300,2,NA,2017,2018,2018,Employer,Name
+Clinton,900715350,2,NA,2017,2018,2018,Employer,Name
+Colchester,901115910,2,Super Stop and Shop,2017,2018,2018,Employer,Name
+Colebrook,900516050,2,NA,2017,2018,2018,Employer,Name
+Columbia,901316400,2,NA,2017,2018,2018,Employer,Name
+Cornwall,900517240,2,NA,2017,2018,2018,Employer,Name
+Coventry,901317800,2,NA,2017,2018,2018,Employer,Name
+Cromwell,900718080,2,NA,2017,2018,2018,Employer,Name
+Danbury,900118500,2,UTC Aerospace,2017,2018,2018,Employer,Name
+Darien,900118850,2,Zoto’s International Hair Care Products,2017,2018,2018,Employer,Name
+Deep River,900719130,2,NA,2017,2018,2018,Employer,Name
+Derby,900919550,2,Shop Rite,2017,2018,2018,Employer,Name
+Durham,900720810,2,NA,2017,2018,2018,Employer,Name
+East Granby,900322070,2,Rockbestos,2017,2018,2018,Employer,Name
+East Haddam,900722280,2,NA,2017,2018,2018,Employer,Name
+East Hampton,900722490,2,NA,2017,2018,2018,Employer,Name
+East Hartford,900322630,2,Town of East Hartford,2017,2018,2018,Employer,Name
+East Haven,900922910,2,NA,2017,2018,2018,Employer,Name
+East Lyme,901123400,2,NA,2017,2018,2018,Employer,Name
+East Windsor,900324800,2,NA,2017,2018,2018,Employer,Name
+Eastford,901521860,2,NA,2017,2018,2018,Employer,Name
+Easton,900123890,2,NA,2017,2018,2018,Employer,Name
+Ellington,901325360,2,NA,2017,2018,2018,Employer,Name
+Enfield,900325990,2,NA,2017,2018,2018,Employer,Name
+Essex,900726270,2,Underwater Construction,2017,2018,2018,Employer,Name
+Fairfield,900126620,2,NA,2017,2018,2018,Employer,Name
+Farmington,900327600,2,United Technologies,2017,2018,2018,Employer,Name
+Franklin,901129910,2,NA,2017,2018,2018,Employer,Name
+Glastonbury,900331240,2,NA,2017,2018,2018,Employer,Name
+Goshen,900532290,2,NA,2017,2018,2018,Employer,Name
+Granby,900332640,2,Super Stop & Shop,2017,2018,2018,Employer,Name
+Greenwich,900133620,2,Greenwich Hospital,2017,2018,2018,Employer,Name
+Griswold,901133900,2,NA,2017,2018,2018,Employer,Name
+Groton,901134250,2,U. S. Navy Submarine Base,2017,2018,2018,Employer,Name
+Guilford,900934950,2,NA,2017,2018,2018,Employer,Name
+Haddam,900735230,2,NA,2017,2018,2018,Employer,Name
+Hamden,900935650,2,NA,2017,2018,2018,Employer,Name
+Hampton,901536000,2,NA,2017,2018,2018,Employer,Name
+Hartford,900337070,2,NA,2017,2018,2018,Employer,Name
+Hartland,900337140,2,NA,2017,2018,2018,Employer,Name
+Harwinton,900537280,2,NA,2017,2018,2018,Employer,Name
+Hebron,901337910,2,Hebron Board of Education,2017,2018,2018,Employer,Name
+Kent,900540290,2,NA,2017,2018,2018,Employer,Name
+Killingly,901540500,2,NA,2017,2018,2018,Employer,Name
+Killingworth,900740710,2,NA,2017,2018,2018,Employer,Name
+Lebanon,901142390,2,NA,2017,2018,2018,Employer,Name
+Ledyard,901142600,2,Ledyard Board of Education,2017,2018,2018,Employer,Name
+Lisbon,901143230,2,NA,2017,2018,2018,Employer,Name
+Litchfield,900543370,2,NA,2017,2018,2018,Employer,Name
+Lyme,901144210,2,region 18 school district,2017,2018,2018,Employer,Name
+Madison,900944560,2,NA,2017,2018,2018,Employer,Name
+Manchester,900344700,2,Town of Manchester/Board of Education,2017,2018,2018,Employer,Name
+Mansfield,901344910,2,Town of Mansfield/Board of Ed,2017,2018,2018,Employer,Name
+Marlborough,900345820,2,NA,2017,2018,2018,Employer,Name
+Meriden,900946520,2,Hunter's Ambulance and Transportation,2017,2018,2018,Employer,Name
+Middlebury,900946940,2,NA,2017,2018,2018,Employer,Name
+Middlefield,900747080,2,NA,2017,2018,2018,Employer,Name
+Middletown,900747360,2,NA,2017,2018,2018,Employer,Name
+Milford,900947535,2,NA,2017,2018,2018,Employer,Name
+Monroe,900148620,2,Aquarion Water Company of Conencticut,2017,2018,2018,Employer,Name
+Montville,901148900,2,NA,2017,2018,2018,Employer,Name
+Morris,900549460,2,NA,2017,2018,2018,Employer,Name
+Naugatuck,900949950,2,NA,2017,2018,2018,Employer,Name
+New Britain,900350440,2,City of New Britain,2017,2018,2018,Employer,Name
+New Canaan,900150580,2,NA,2017,2018,2018,Employer,Name
+New Fairfield,900150860,2,NA,2017,2018,2018,Employer,Name
+New Hartford,900551350,2,NA,2017,2018,2018,Employer,Name
+New Haven,900952070,2,NA,2017,2018,2018,Employer,Name
+New London,901152350,2,Yale New Haven Health,2017,2018,2018,Employer,Name
+New Milford,900552630,2,NA,2017,2018,2018,Employer,Name
+Newington,900352140,2,CT Department of Transportation,2017,2018,2018,Employer,Name
+Newtown,900152980,2,Masonicare of Newtown,2017,2018,2018,Employer,Name
+Norfolk,900553470,2,NA,2017,2018,2018,Employer,Name
+North Branford,900953890,2,NA,2017,2018,2018,Employer,Name
+North Canaan,900554030,2,NA,2017,2018,2018,Employer,Name
+North Haven,900954870,2,NA,2017,2018,2018,Employer,Name
+North Stonington,901155500,2,NA,2017,2018,2018,Employer,Name
+Norwalk,900156060,2,Cablevision Systems Corporation,2017,2018,2018,Employer,Name
+Norwich,901156270,2,City of Norwich,2017,2018,2018,Employer,Name
+Old Lyme,901157040,2,Regional School District #18,2017,2018,2018,Employer,Name
+Old Saybrook,900757320,2,Stop'n'Shop,2017,2018,2018,Employer,Name
+Orange,900957600,2,The Town of Orange,2017,2018,2018,Employer,Name
+Oxford,900958300,2,NA,2017,2018,2018,Employer,Name
+Plainfield,901559980,2,Lowe's Distribution,2017,2018,2018,Employer,Name
+Plainville,900360120,2,NA,2017,2018,2018,Employer,Name
+Plymouth,900560750,2,NA,2017,2018,2018,Employer,Name
+Pomfret,901561030,2,NA,2017,2018,2018,Employer,Name
+Portland,900761800,2,Portland Care & Rehabilitation,2017,2018,2018,Employer,Name
+Preston,901162150,2,NA,2017,2018,2018,Employer,Name
+Prospect,900962290,2,NA,2017,2018,2018,Employer,Name
+Putnam,901562710,2,NA,2017,2018,2018,Employer,Name
+Redding,900163480,2,NA,2017,2018,2018,Employer,Name
+Ridgefield,900163970,2,Town of Ridgefield,2017,2018,2018,Employer,Name
+Rocky Hill,900365370,2,NA,2017,2018,2018,Employer,Name
+Roxbury,900565930,2,NA,2017,2018,2018,Employer,Name
+Salem,901166210,2,Town Of Salem,2017,2018,2018,Employer,Name
+Salisbury,900566420,2,NA,2017,2018,2018,Employer,Name
+Scotland,901567400,2,NA,2017,2018,2018,Employer,Name
+Seymour,900967610,2,NA,2017,2018,2018,Employer,Name
+Sharon,900567960,2,NA,2017,2018,2018,Employer,Name
+Shelton,900168170,2,NA,2017,2018,2018,Employer,Name
+Sherman,900168310,2,NA,2017,2018,2018,Employer,Name
+Simsbury,900368940,2,Hartford Investment Fncl Svc,2017,2014,2018,Employer,Name
+Somers,901369220,2,NA,2017,2018,2018,Employer,Name
+South Windsor,900371390,2,NA,2017,2018,2018,Employer,Name
+Southbury,900969640,2,NA,2017,2018,2018,Employer,Name
+Southington,900370550,2,YMCA,2017,2018,2018,Employer,Name
+Sprague,901171670,2,NA,2017,2018,2018,Employer,Name
+Stafford,901372090,2,Evergreen Healthcare Center,2017,2018,2018,Employer,Name
+Stamford,900173070,2,Gartner,2017,2018,2018,Employer,Name
+Sterling,901573420,2,NA,2017,2018,2018,Employer,Name
+Stonington,901173770,2,NA,2017,2018,2018,Employer,Name
+Stratford,900174190,2,NA,2017,2018,2018,Employer,Name
+Suffield,900374540,2,NA,2017,2018,2018,Employer,Name
+Thomaston,900575730,2,Ward Leonard Electric Co Inc,2017,2018,2018,Employer,Name
+Thompson,901575870,2,NA,2017,2018,2018,Employer,Name
+Tolland,901376290,2,Gerber Scientific,2017,2018,2018,Employer,Name
+Torrington,900576570,2,NA,2017,2018,2018,Employer,Name
+Trumbull,900177200,2,Town of Trumbull,2017,2018,2018,Employer,Name
+Union,901377830,2,NA,2017,2018,2018,Employer,Name
+Vernon,901378250,2,ECHN,2017,2018,2018,Employer,Name
+Voluntown,901178600,2,Town Of Voluntown,2017,2018,2018,Employer,Name
+Wallingford,900978740,2,Anthem BC/BS,2017,2018,2018,Employer,Name
+Warren,900579510,2,NA,2017,2018,2018,Employer,Name
+Washington,900579720,2,Region 12 School,2017,2018,2018,Employer,Name
+Waterbury,900980070,2,NA,2017,2018,2018,Employer,Name
+Waterford,901180280,2,NA,2017,2018,2018,Employer,Name
+Watertown,900580490,2,NA,2017,2018,2018,Employer,Name
+West Hartford,900382590,2,Town of West Hartford,2017,2018,2018,Employer,Name
+West Haven,900982870,2,NA,2017,2018,2018,Employer,Name
+Westbrook,900781680,2,Water's Edge Resort,2017,2018,2018,Employer,Name
+Weston,900183430,2,NA,2017,2018,2018,Employer,Name
+Westport,900183500,2,"Town of Westport, BOE",2017,2018,2018,Employer,Name
+Wethersfield,900384900,2,NA,2017,2018,2018,Employer,Name
+Willington,901385950,2,NA,2017,2018,2018,Employer,Name
+Wilton,900186370,2,NA,2017,2018,2018,Employer,Name
+Winchester,900586440,2,NA,2017,2018,2018,Employer,Name
+Windham,901586790,2,NA,2017,2018,2018,Employer,Name
+Windsor,900387000,2,Voya Financial,2017,2018,2018,Employer,Name
+Windsor Locks,900387070,2,NA,2017,2018,2018,Employer,Name
+Wolcott,900987560,2,NA,2017,2018,2018,Employer,Name
+Woodbridge,900987700,2,NA,2017,2018,2018,Employer,Name
+Woodbury,900587910,2,O&G Industries,2017,2018,2018,Employer,Name
+Woodstock,901588190,2,NA,2017,2018,2018,Employer,Name
+Andover,901301080,3,NA,2017,2018,2018,Employer,Name
+Ansonia,900901220,3,NA,2017,2018,2018,Employer,Name
+Ashford,901501430,3,NA,2017,2018,2018,Employer,Name
+Avon,900302060,3,NA,2017,2018,2018,Employer,Name
+Barkhamsted,900502760,3,NA,2017,2018,2018,Employer,Name
+Beacon Falls,900903250,3,Goldenrod,2017,2018,2018,Employer,Name
+Berlin,900304300,3,Parker Fluid Control,2017,2018,2018,Employer,Name
+Bethany,900904580,3,NA,2017,2018,2018,Employer,Name
+Bethel,900104720,3,NA,2017,2018,2018,Employer,Name
+Bethlehem,900504930,3,NA,2017,2018,2018,Employer,Name
+Bloomfield,900305910,3,Home Goods Warehouse,2017,2018,2018,Employer,Name
+Bolton,901306260,3,NA,2017,2018,2018,Employer,Name
+Bozrah,901106820,3,Gilman Brothers Company,2017,2018,2018,Employer,Name
+Branford,900907310,3,NA,2017,2018,2018,Employer,Name
+Bridgeport,900108070,3,NA,2017,2018,2018,Employer,Name
+Bridgewater,900508210,3,Holland Joint Venture/Parker Medical,2017,2018,2018,Employer,Name
+Bristol,900308490,3,NA,2017,2018,2018,Employer,Name
+Brookfield,900108980,3,NA,2017,2018,2018,Employer,Name
+Brooklyn,901509190,3,NA,2017,2018,2018,Employer,Name
+Burlington,900310100,3,NA,2017,2018,2018,Employer,Name
+Canaan,900510940,3,NA,2017,2018,2018,Employer,Name
+Canterbury,901512130,3,NA,2017,2018,2018,Employer,Name
+Canton,900312270,3,Shop Rite Supermarket,2017,2018,2018,Employer,Name
+Chaplin,901513810,3,Quasar Internet Solutions,2017,2018,2018,Employer,Name
+Cheshire,900914160,3,State of Connecticut,2017,2018,2018,Employer,Name
+Chester,900714300,3,NA,2017,2018,2018,Employer,Name
+Clinton,900715350,3,NA,2017,2018,2018,Employer,Name
+Colchester,901115910,3,Incord,2017,2018,2018,Employer,Name
+Colebrook,900516050,3,NA,2017,2018,2018,Employer,Name
+Columbia,901316400,3,NA,2017,2018,2018,Employer,Name
+Cornwall,900517240,3,NA,2017,2018,2018,Employer,Name
+Coventry,901317800,3,NA,2017,2018,2018,Employer,Name
+Cromwell,900718080,3,NA,2017,2018,2018,Employer,Name
+Danbury,900118500,3,Western CT State University,2017,2018,2018,Employer,Name
+Darien,900118850,3,Colangelo Synergy Marketing,2017,2018,2018,Employer,Name
+Deep River,900719130,3,NA,2017,2018,2018,Employer,Name
+Derby,900919550,3,Home Depot,2017,2018,2018,Employer,Name
+Durham,900720810,3,NA,2017,2018,2018,Employer,Name
+East Granby,900322070,3,Monrovia Nurseries,2017,2018,2018,Employer,Name
+East Haddam,900722280,3,NA,2017,2018,2018,Employer,Name
+East Hampton,900722490,3,NA,2017,2018,2018,Employer,Name
+East Hartford,900322630,3,Goodwin College,2017,2018,2018,Employer,Name
+East Haven,900922910,3,NA,2017,2018,2018,Employer,Name
+East Lyme,901123400,3,NA,2017,2018,2018,Employer,Name
+East Windsor,900324800,3,NA,2017,2018,2018,Employer,Name
+Eastford,901521860,3,NA,2017,2018,2018,Employer,Name
+Easton,900123890,3,NA,2017,2018,2018,Employer,Name
+Ellington,901325360,3,NA,2017,2018,2018,Employer,Name
+Enfield,900325990,3,NA,2017,2018,2018,Employer,Name
+Essex,900726270,3,Griswold Inn,2017,2018,2018,Employer,Name
+Fairfield,900126620,3,NA,2017,2018,2018,Employer,Name
+Farmington,900327600,3,Otis Elevator,2017,2018,2018,Employer,Name
+Franklin,901129910,3,NA,2017,2018,2018,Employer,Name
+Glastonbury,900331240,3,NA,2017,2018,2018,Employer,Name
+Goshen,900532290,3,NA,2017,2018,2018,Employer,Name
+Granby,900332640,3,Geissler's Supermarket,2017,2018,2018,Employer,Name
+Greenwich,900133620,3,AQR Capital Management,2017,2018,2018,Employer,Name
+Griswold,901133900,3,NA,2017,2018,2018,Employer,Name
+Groton,901134250,3,"Pfizer, Inc.",2017,2018,2018,Employer,Name
+Guilford,900934950,3,NA,2017,2018,2018,Employer,Name
+Haddam,900735230,3,NA,2017,2018,2018,Employer,Name
+Hamden,900935650,3,NA,2017,2018,2018,Employer,Name
+Hampton,901536000,3,NA,2017,2018,2018,Employer,Name
+Hartford,900337070,3,NA,2017,2018,2018,Employer,Name
+Hartland,900337140,3,NA,2017,2018,2018,Employer,Name
+Harwinton,900537280,3,NA,2017,2018,2018,Employer,Name
+Hebron,901337910,3,Town of Hebron,2017,2018,2018,Employer,Name
+Kent,900540290,3,NA,2017,2018,2018,Employer,Name
+Killingly,901540500,3,NA,2017,2018,2018,Employer,Name
+Killingworth,900740710,3,NA,2017,2018,2018,Employer,Name
+Lebanon,901142390,3,NA,2017,2018,2018,Employer,Name
+Ledyard,901142600,3,Hard Rock Cafe,2017,2018,2018,Employer,Name
+Lisbon,901143230,3,NA,2017,2018,2018,Employer,Name
+Litchfield,900543370,3,NA,2017,2018,2018,Employer,Name
+Lyme,901144210,3,NA,2017,2018,2018,Employer,Name
+Madison,900944560,3,NA,2017,2018,2018,Employer,Name
+Manchester,900344700,3,Allied Printing,2017,2018,2018,Employer,Name
+Mansfield,901344910,3,Natchaug Hospital,2017,2018,2018,Employer,Name
+Marlborough,900345820,3,NA,2017,2018,2018,Employer,Name
+Meriden,900946520,3,3M,2017,2018,2018,Employer,Name
+Middlebury,900946940,3,NA,2017,2018,2018,Employer,Name
+Middlefield,900747080,3,NA,2017,2018,2018,Employer,Name
+Middletown,900747360,3,NA,2017,2018,2018,Employer,Name
+Milford,900947535,3,NA,2017,2018,2018,Employer,Name
+Monroe,900148620,3,"Big Y Foods, Inc.",2017,2018,2018,Employer,Name
+Montville,901148900,3,NA,2017,2018,2018,Employer,Name
+Morris,900549460,3,NA,2017,2018,2018,Employer,Name
+Naugatuck,900949950,3,NA,2017,2018,2018,Employer,Name
+New Britain,900350440,3,Central Connecticut State University-State of Ct,2017,2018,2018,Employer,Name
+New Canaan,900150580,3,NA,2017,2018,2018,Employer,Name
+New Fairfield,900150860,3,NA,2017,2018,2018,Employer,Name
+New Hartford,900551350,3,NA,2017,2018,2018,Employer,Name
+New Haven,900952070,3,NA,2017,2018,2018,Employer,Name
+New London,901152350,3,Connecticut College,2017,2018,2018,Employer,Name
+New Milford,900552630,3,NA,2017,2018,2018,Employer,Name
+Newington,900352140,3,Hartford Hospital,2017,2018,2018,Employer,Name
+Newtown,900152980,3,Spectrum,2017,2018,2018,Employer,Name
+Norfolk,900553470,3,NA,2017,2018,2018,Employer,Name
+North Branford,900953890,3,NA,2017,2018,2018,Employer,Name
+North Canaan,900554030,3,NA,2017,2018,2018,Employer,Name
+North Haven,900954870,3,NA,2017,2018,2018,Employer,Name
+North Stonington,901155500,3,NA,2017,2018,2018,Employer,Name
+Norwalk,900156060,3,"General Electric Company, Inc.",2017,2018,2018,Employer,Name
+Norwich,901156270,3,State of CT,2017,2018,2018,Employer,Name
+Old Lyme,901157040,3,Big Y,2017,2018,2018,Employer,Name
+Old Saybrook,900757320,3,Big Y,2017,2018,2018,Employer,Name
+Orange,900957600,3,Southern Connecticut Gas,2017,2018,2018,Employer,Name
+Oxford,900958300,3,NA,2017,2018,2018,Employer,Name
+Plainfield,901559980,3,Big Y,2017,2018,2018,Employer,Name
+Plainville,900360120,3,NA,2017,2018,2018,Employer,Name
+Plymouth,900560750,3,NA,2017,2018,2018,Employer,Name
+Pomfret,901561030,3,NA,2017,2018,2018,Employer,Name
+Portland,900761800,3,Jarvis Airfoil,2017,2018,2018,Employer,Name
+Preston,901162150,3,NA,2017,2018,2018,Employer,Name
+Prospect,900962290,3,NA,2017,2018,2018,Employer,Name
+Putnam,901562710,3,NA,2017,2018,2018,Employer,Name
+Redding,900163480,3,NA,2017,2018,2018,Employer,Name
+Ridgefield,900163970,3,Fairfield County Bankcorp,2017,2018,2018,Employer,Name
+Rocky Hill,900365370,3,NA,2017,2018,2018,Employer,Name
+Roxbury,900565930,3,NA,2017,2018,2018,Employer,Name
+Salem,901166210,3,1 New London Rd Shopping Center,2017,2018,2018,Employer,Name
+Salisbury,900566420,3,NA,2017,2018,2018,Employer,Name
+Scotland,901567400,3,NA,2017,2018,2018,Employer,Name
+Seymour,900967610,3,NA,2017,2018,2018,Employer,Name
+Sharon,900567960,3,NA,2017,2018,2018,Employer,Name
+Shelton,900168170,3,NA,2017,2018,2018,Employer,Name
+Sherman,900168310,3,NA,2017,2018,2018,Employer,Name
+Simsbury,900368940,3,McLean,2017,2014,2018,Employer,Name
+Somers,901369220,3,NA,2017,2018,2018,Employer,Name
+South Windsor,900371390,3,NA,2017,2018,2018,Employer,Name
+Southbury,900969640,3,NA,2017,2018,2018,Employer,Name
+Southington,900370550,3,Webster Bank,2017,2018,2018,Employer,Name
+Sprague,901171670,3,NA,2017,2018,2018,Employer,Name
+Stafford,901372090,3,TTM Technologies,2017,2018,2018,Employer,Name
+Stamford,900173070,3,Charter Communications,2017,2018,2018,Employer,Name
+Sterling,901573420,3,NA,2017,2018,2018,Employer,Name
+Stonington,901173770,3,NA,2017,2018,2018,Employer,Name
+Stratford,900174190,3,NA,2017,2018,2018,Employer,Name
+Suffield,900374540,3,NA,2017,2018,2018,Employer,Name
+Thomaston,900575730,3,Stewart EFI LLC,2017,2018,2018,Employer,Name
+Thompson,901575870,3,NA,2017,2018,2018,Employer,Name
+Tolland,901376290,3,Woodlake at Tolland,2017,2018,2018,Employer,Name
+Torrington,900576570,3,NA,2017,2018,2018,Employer,Name
+Trumbull,900177200,3,"Unilever, Inc.",2017,2018,2018,Employer,Name
+Union,901377830,3,NA,2017,2018,2018,Employer,Name
+Vernon,901378250,3,Stop & Shop,2017,2018,2018,Employer,Name
+Voluntown,901178600,3,Charles River Labs,2017,2018,2018,Employer,Name
+Wallingford,900978740,3,Masonicare Health Center,2017,2018,2018,Employer,Name
+Warren,900579510,3,NA,2017,2018,2018,Employer,Name
+Washington,900579720,3,Glennholme Deauaux School,2017,2018,2018,Employer,Name
+Waterbury,900980070,3,NA,2017,2018,2018,Employer,Name
+Waterford,901180280,3,NA,2017,2018,2018,Employer,Name
+Watertown,900580490,3,NA,2017,2018,2018,Employer,Name
+West Hartford,900382590,3,Hospital at Hebrew Health Care,2017,2018,2018,Employer,Name
+West Haven,900982870,3,NA,2017,2018,2018,Employer,Name
+Westbrook,900781680,3,Westbrook - BOE,2017,2018,2018,Employer,Name
+Weston,900183430,3,NA,2017,2018,2018,Employer,Name
+Westport,900183500,3,Westport/Weston YMCA,2017,2018,2018,Employer,Name
+Wethersfield,900384900,3,NA,2017,2018,2018,Employer,Name
+Willington,901385950,3,NA,2017,2018,2018,Employer,Name
+Wilton,900186370,3,NA,2017,2018,2018,Employer,Name
+Winchester,900586440,3,NA,2017,2018,2018,Employer,Name
+Windham,901586790,3,NA,2017,2018,2018,Employer,Name
+Windsor,900387000,3,Amazon,2017,2018,2018,Employer,Name
+Windsor Locks,900387070,3,NA,2017,2018,2018,Employer,Name
+Wolcott,900987560,3,NA,2017,2018,2018,Employer,Name
+Woodbridge,900987700,3,NA,2017,2018,2018,Employer,Name
+Woodbury,900587910,3,Town of Woodbury,2017,2018,2018,Employer,Name
+Woodstock,901588190,3,NA,2017,2018,2018,Employer,Name
+Andover,901301080,4,NA,2017,2018,2018,Employer,Name
+Ansonia,900901220,4,NA,2017,2018,2018,Employer,Name
+Ashford,901501430,4,NA,2017,2018,2018,Employer,Name
+Avon,900302060,4,NA,2017,2018,2018,Employer,Name
+Barkhamsted,900502760,4,NA,2017,2018,2018,Employer,Name
+Beacon Falls,900903250,4,Cameo Metal Products,2017,2018,2018,Employer,Name
+Berlin,900304300,4,Comcast,2017,2018,2018,Employer,Name
+Bethany,900904580,4,NA,2017,2018,2018,Employer,Name
+Bethel,900104720,4,NA,2017,2018,2018,Employer,Name
+Bethlehem,900504930,4,NA,2017,2018,2018,Employer,Name
+Bloomfield,900305910,4,Seabury,2017,2018,2018,Employer,Name
+Bolton,901306260,4,NA,2017,2018,2018,Employer,Name
+Bozrah,901106820,4,Collins and Jewell Company,2017,2018,2018,Employer,Name
+Branford,900907310,4,NA,2017,2018,2018,Employer,Name
+Bridgeport,900108070,4,NA,2017,2018,2018,Employer,Name
+Bridgewater,900508210,4,Entergy/TLG Services,2017,2018,2018,Employer,Name
+Bristol,900308490,4,NA,2017,2018,2018,Employer,Name
+Brookfield,900108980,4,NA,2017,2018,2018,Employer,Name
+Brooklyn,901509190,4,NA,2017,2018,2018,Employer,Name
+Burlington,900310100,4,NA,2017,2018,2018,Employer,Name
+Canaan,900510940,4,NA,2017,2018,2018,Employer,Name
+Canterbury,901512130,4,NA,2017,2018,2018,Employer,Name
+Canton,900312270,4,Cherry Brook Health Center,2017,2018,2018,Employer,Name
+Chaplin,901513810,4,Zlotnicks Irving,2017,2018,2018,Employer,Name
+Cheshire,900914160,4,Macy’s Logistics,2017,2018,2018,Employer,Name
+Chester,900714300,4,NA,2017,2018,2018,Employer,Name
+Clinton,900715350,4,NA,2017,2018,2018,Employer,Name
+Colchester,901115910,4,Harrington Court,2017,2018,2018,Employer,Name
+Colebrook,900516050,4,NA,2017,2018,2018,Employer,Name
+Columbia,901316400,4,NA,2017,2018,2018,Employer,Name
+Cornwall,900517240,4,NA,2017,2018,2018,Employer,Name
+Coventry,901317800,4,NA,2017,2018,2018,Employer,Name
+Cromwell,900718080,4,NA,2017,2018,2018,Employer,Name
+Danbury,900118500,4,Danbury Hospital,2017,2018,2018,Employer,Name
+Darien,900118850,4,Wee Burn Country Club,2017,2018,2018,Employer,Name
+Deep River,900719130,4,NA,2017,2018,2018,Employer,Name
+Derby,900919550,4,Lowes,2017,2018,2018,Employer,Name
+Durham,900720810,4,NA,2017,2018,2018,Employer,Name
+East Granby,900322070,4,MB Aerospace,2017,2018,2018,Employer,Name
+East Haddam,900722280,4,NA,2017,2018,2018,Employer,Name
+East Hampton,900722490,4,NA,2017,2018,2018,Employer,Name
+East Hartford,900322630,4,Coca-Cola of Northern New England,2017,2018,2018,Employer,Name
+East Haven,900922910,4,NA,2017,2018,2018,Employer,Name
+East Lyme,901123400,4,NA,2017,2018,2018,Employer,Name
+East Windsor,900324800,4,NA,2017,2018,2018,Employer,Name
+Eastford,901521860,4,NA,2017,2018,2018,Employer,Name
+Easton,900123890,4,NA,2017,2018,2018,Employer,Name
+Ellington,901325360,4,NA,2017,2018,2018,Employer,Name
+Enfield,900325990,4,NA,2017,2018,2018,Employer,Name
+Essex,900726270,4,Leather Man LTD Inc,2017,2018,2018,Employer,Name
+Fairfield,900126620,4,NA,2017,2018,2018,Employer,Name
+Farmington,900327600,4,Connecticare,2017,2018,2018,Employer,Name
+Franklin,901129910,4,NA,2017,2018,2018,Employer,Name
+Glastonbury,900331240,4,NA,2017,2018,2018,Employer,Name
+Goshen,900532290,4,NA,2017,2018,2018,Employer,Name
+Granby,900332640,4,Granby Memorial High School,2017,2018,2018,Employer,Name
+Greenwich,900133620,4,Orograin (Bimbo Bakeries),2017,2018,2018,Employer,Name
+Griswold,901133900,4,NA,2017,2018,2018,Employer,Name
+Groton,901134250,4,Town of Groton,2017,2018,2018,Employer,Name
+Guilford,900934950,4,NA,2017,2018,2018,Employer,Name
+Haddam,900735230,4,NA,2017,2018,2018,Employer,Name
+Hamden,900935650,4,NA,2017,2018,2018,Employer,Name
+Hampton,901536000,4,NA,2017,2018,2018,Employer,Name
+Hartford,900337070,4,NA,2017,2018,2018,Employer,Name
+Hartland,900337140,4,NA,2017,2018,2018,Employer,Name
+Harwinton,900537280,4,NA,2017,2018,2018,Employer,Name
+Hebron,901337910,4,Hebron Senior Living LLC (Colebrook Village),2017,2018,2018,Employer,Name
+Kent,900540290,4,NA,2017,2018,2018,Employer,Name
+Killingly,901540500,4,NA,2017,2018,2018,Employer,Name
+Killingworth,900740710,4,NA,2017,2018,2018,Employer,Name
+Lebanon,901142390,4,NA,2017,2018,2018,Employer,Name
+Ledyard,901142600,4,Town of Ledyard,2017,2018,2018,Employer,Name
+Lisbon,901143230,4,NA,2017,2018,2018,Employer,Name
+Litchfield,900543370,4,NA,2017,2018,2018,Employer,Name
+Lyme,901144210,4,NA,2017,2018,2018,Employer,Name
+Madison,900944560,4,NA,2017,2018,2018,Employer,Name
+Manchester,900344700,4,Paradigm Precision,2017,2018,2018,Employer,Name
+Mansfield,901344910,4,Big Y,2017,2018,2018,Employer,Name
+Marlborough,900345820,4,NA,2017,2018,2018,Employer,Name
+Meriden,900946520,4,Carabetta Management,2017,2018,2018,Employer,Name
+Middlebury,900946940,4,NA,2017,2018,2018,Employer,Name
+Middlefield,900747080,4,NA,2017,2018,2018,Employer,Name
+Middletown,900747360,4,NA,2017,2018,2018,Employer,Name
+Milford,900947535,4,NA,2017,2018,2018,Employer,Name
+Monroe,900148620,4,"Swiss Army Brands, Inc.",2017,2018,2018,Employer,Name
+Montville,901148900,4,NA,2017,2018,2018,Employer,Name
+Morris,900549460,4,NA,2017,2018,2018,Employer,Name
+Naugatuck,900949950,4,NA,2017,2018,2018,Employer,Name
+New Britain,900350440,4,Hospital for Special Care,2017,2018,2018,Employer,Name
+New Canaan,900150580,4,NA,2017,2018,2018,Employer,Name
+New Fairfield,900150860,4,NA,2017,2018,2018,Employer,Name
+New Hartford,900551350,4,NA,2017,2018,2018,Employer,Name
+New Haven,900952070,4,NA,2017,2018,2018,Employer,Name
+New London,901152350,4,US Coast Guard Academy,2017,2018,2018,Employer,Name
+New Milford,900552630,4,NA,2017,2018,2018,Employer,Name
+Newington,900352140,4,Data-Mail,2017,2018,2018,Employer,Name
+Newtown,900152980,4,Town of Newtown,2017,2018,2018,Employer,Name
+Norfolk,900553470,4,NA,2017,2018,2018,Employer,Name
+North Branford,900953890,4,NA,2017,2018,2018,Employer,Name
+North Canaan,900554030,4,NA,2017,2018,2018,Employer,Name
+North Haven,900954870,4,NA,2017,2018,2018,Employer,Name
+North Stonington,901155500,4,NA,2017,2018,2018,Employer,Name
+Norwalk,900156060,4,Stew Leonard's,2017,2018,2018,Employer,Name
+Norwich,901156270,4,Bob's Discount Furniture,2017,2018,2018,Employer,Name
+Old Lyme,901157040,4,Sennheiser,2017,2018,2018,Employer,Name
+Old Saybrook,900757320,4,Gladeview Health Care & Rehabilitation and Apple Rehabilitation,2017,2018,2018,Employer,Name
+Orange,900957600,4,Light Sources,2017,2018,2018,Employer,Name
+Oxford,900958300,4,NA,2017,2018,2018,Employer,Name
+Plainfield,901559980,4,Village Manor Associates,2017,2018,2018,Employer,Name
+Plainville,900360120,4,NA,2017,2018,2018,Employer,Name
+Plymouth,900560750,4,NA,2017,2018,2018,Employer,Name
+Pomfret,901561030,4,NA,2017,2018,2018,Employer,Name
+Portland,900761800,4,Standard Knapp,2017,2018,2018,Employer,Name
+Preston,901162150,4,NA,2017,2018,2018,Employer,Name
+Prospect,900962290,4,NA,2017,2018,2018,Employer,Name
+Putnam,901562710,4,NA,2017,2018,2018,Employer,Name
+Redding,900163480,4,NA,2017,2018,2018,Employer,Name
+Ridgefield,900163970,4,Stop & Shop,2017,2018,2018,Employer,Name
+Rocky Hill,900365370,4,NA,2017,2018,2018,Employer,Name
+Roxbury,900565930,4,NA,2017,2018,2018,Employer,Name
+Salem,901166210,4,20 Hartford Rd Shopping Center,2017,2018,2018,Employer,Name
+Salisbury,900566420,4,NA,2017,2018,2018,Employer,Name
+Scotland,901567400,4,NA,2017,2018,2018,Employer,Name
+Seymour,900967610,4,NA,2017,2018,2018,Employer,Name
+Sharon,900567960,4,NA,2017,2018,2018,Employer,Name
+Shelton,900168170,4,NA,2017,2018,2018,Employer,Name
+Sherman,900168310,4,NA,2017,2018,2018,Employer,Name
+Simsbury,900368940,4,Ensign-Bickford Industries Inc,2017,2014,2018,Employer,Name
+Somers,901369220,4,NA,2017,2018,2018,Employer,Name
+South Windsor,900371390,4,NA,2017,2018,2018,Employer,Name
+Southbury,900969640,4,NA,2017,2018,2018,Employer,Name
+Southington,900370550,4,Hartford Healthcare,2017,2018,2018,Employer,Name
+Sprague,901171670,4,NA,2017,2018,2018,Employer,Name
+Stafford,901372090,4,3M Purification Inc.,2017,2018,2018,Employer,Name
+Stamford,900173070,4,Deloitte,2017,2018,2018,Employer,Name
+Sterling,901573420,4,NA,2017,2018,2018,Employer,Name
+Stonington,901173770,4,NA,2017,2018,2018,Employer,Name
+Stratford,900174190,4,NA,2017,2018,2018,Employer,Name
+Suffield,900374540,4,NA,2017,2018,2018,Employer,Name
+Thomaston,900575730,4,Whyco Finishing Tech LLC,2017,2018,2018,Employer,Name
+Thompson,901575870,4,NA,2017,2018,2018,Employer,Name
+Tolland,901376290,4,Big Y,2017,2018,2018,Employer,Name
+Torrington,900576570,4,NA,2017,2018,2018,Employer,Name
+Trumbull,900177200,4,Marriott Hotel,2017,2018,2018,Employer,Name
+Union,901377830,4,NA,2017,2018,2018,Employer,Name
+Vernon,901378250,4,Vernon Manor,2017,2018,2018,Employer,Name
+Voluntown,901178600,4,Bronson's True Value,2017,2018,2018,Employer,Name
+Wallingford,900978740,4,Gaylord Hospital,2017,2018,2018,Employer,Name
+Warren,900579510,4,NA,2017,2018,2018,Employer,Name
+Washington,900579720,4,Rumsey Hall School,2017,2018,2018,Employer,Name
+Waterbury,900980070,4,NA,2017,2018,2018,Employer,Name
+Waterford,901180280,4,NA,2017,2018,2018,Employer,Name
+Watertown,900580490,4,NA,2017,2018,2018,Employer,Name
+West Hartford,900382590,4,Legrand Wiremold,2017,2018,2018,Employer,Name
+West Haven,900982870,4,NA,2017,2018,2018,Employer,Name
+Westbrook,900781680,4,IPC Systems,2017,2018,2018,Employer,Name
+Weston,900183430,4,NA,2017,2018,2018,Employer,Name
+Westport,900183500,4,Town of Westport,2017,2018,2018,Employer,Name
+Wethersfield,900384900,4,NA,2017,2018,2018,Employer,Name
+Willington,901385950,4,NA,2017,2018,2018,Employer,Name
+Wilton,900186370,4,NA,2017,2018,2018,Employer,Name
+Winchester,900586440,4,NA,2017,2018,2018,Employer,Name
+Windham,901586790,4,NA,2017,2018,2018,Employer,Name
+Windsor,900387000,4,GE Power,2017,2018,2018,Employer,Name
+Windsor Locks,900387070,4,NA,2017,2018,2018,Employer,Name
+Wolcott,900987560,4,NA,2017,2018,2018,Employer,Name
+Woodbridge,900987700,4,NA,2017,2018,2018,Employer,Name
+Woodbury,900587910,4,LaBonne's Epicure Market,2017,2018,2018,Employer,Name
+Woodstock,901588190,4,NA,2017,2018,2018,Employer,Name
+Andover,901301080,5,NA,2017,2018,2018,Employer,Name
+Ansonia,900901220,5,NA,2017,2018,2018,Employer,Name
+Ashford,901501430,5,NA,2017,2018,2018,Employer,Name
+Avon,900302060,5,NA,2017,2018,2018,Employer,Name
+Barkhamsted,900502760,5,NA,2017,2018,2018,Employer,Name
+Beacon Falls,900903250,5,Ansonia Steel,2017,2018,2018,Employer,Name
+Berlin,900304300,5,B&F machine,2017,2018,2018,Employer,Name
+Bethany,900904580,5,NA,2017,2018,2018,Employer,Name
+Bethel,900104720,5,NA,2017,2018,2018,Employer,Name
+Bethlehem,900504930,5,NA,2017,2018,2018,Employer,Name
+Bloomfield,900305910,5,Jacobs Vehicle Systems,2017,2018,2018,Employer,Name
+Bolton,901306260,5,NA,2017,2018,2018,Employer,Name
+Bozrah,901106820,5,Town of Bozrah Board of Education,2017,2018,2018,Employer,Name
+Branford,900907310,5,NA,2017,2018,2018,Employer,Name
+Bridgeport,900108070,5,NA,2017,2018,2018,Employer,Name
+Bridgewater,900508210,5,GL Bollard/Maywood Farm/Bridgewater Village Store,2017,2018,2018,Employer,Name
+Bristol,900308490,5,NA,2017,2018,2018,Employer,Name
+Brookfield,900108980,5,NA,2017,2018,2018,Employer,Name
+Brooklyn,901509190,5,NA,2017,2018,2018,Employer,Name
+Burlington,900310100,5,NA,2017,2018,2018,Employer,Name
+Canaan,900510940,5,NA,2017,2018,2018,Employer,Name
+Canterbury,901512130,5,NA,2017,2018,2018,Employer,Name
+Canton,900312270,5,Kohls,2017,2018,2018,Employer,Name
+Chaplin,901513810,5,Dunkin Donuts,2017,2018,2018,Employer,Name
+Cheshire,900914160,5,Collins Aerospace,2017,2018,2018,Employer,Name
+Chester,900714300,5,NA,2017,2018,2018,Employer,Name
+Clinton,900715350,5,NA,2017,2018,2018,Employer,Name
+Colchester,901115910,5,Alpha Q,2017,2018,2018,Employer,Name
+Colebrook,900516050,5,NA,2017,2018,2018,Employer,Name
+Columbia,901316400,5,NA,2017,2018,2018,Employer,Name
+Cornwall,900517240,5,NA,2017,2018,2018,Employer,Name
+Coventry,901317800,5,NA,2017,2018,2018,Employer,Name
+Cromwell,900718080,5,NA,2017,2018,2018,Employer,Name
+Danbury,900118500,5,Fuel Cell Energy,2017,2018,2018,Employer,Name
+Darien,900118850,5,"Ring’s End, Inc.",2017,2018,2018,Employer,Name
+Deep River,900719130,5,NA,2017,2018,2018,Employer,Name
+Derby,900919550,5,City of Derby,2017,2018,2018,Employer,Name
+Durham,900720810,5,NA,2017,2018,2018,Employer,Name
+East Granby,900322070,5,Nufern,2017,2018,2018,Employer,Name
+East Haddam,900722280,5,NA,2017,2018,2018,Employer,Name
+East Hampton,900722490,5,NA,2017,2018,2018,Employer,Name
+East Hartford,900322630,5,Riverside Health Center,2017,2018,2018,Employer,Name
+East Haven,900922910,5,NA,2017,2018,2018,Employer,Name
+East Lyme,901123400,5,NA,2017,2018,2018,Employer,Name
+East Windsor,900324800,5,NA,2017,2018,2018,Employer,Name
+Eastford,901521860,5,NA,2017,2018,2018,Employer,Name
+Easton,900123890,5,NA,2017,2018,2018,Employer,Name
+Ellington,901325360,5,NA,2017,2018,2018,Employer,Name
+Enfield,900325990,5,NA,2017,2018,2018,Employer,Name
+Essex,900726270,5,Tower Laboratories,2017,2018,2018,Employer,Name
+Fairfield,900126620,5,NA,2017,2018,2018,Employer,Name
+Farmington,900327600,5,Town of Farmington/ BOE,2017,2018,2018,Employer,Name
+Franklin,901129910,5,NA,2017,2018,2018,Employer,Name
+Glastonbury,900331240,5,NA,2017,2018,2018,Employer,Name
+Goshen,900532290,5,NA,2017,2018,2018,Employer,Name
+Granby,900332640,5,Monrovia Nursery Co.,2017,2018,2018,Employer,Name
+Greenwich,900133620,5,Interactive Brokers,2017,2018,2018,Employer,Name
+Griswold,901133900,5,NA,2017,2018,2018,Employer,Name
+Groton,901134250,5,1109th TASMG - CT Army National Guard,2017,2018,2018,Employer,Name
+Guilford,900934950,5,NA,2017,2018,2018,Employer,Name
+Haddam,900735230,5,NA,2017,2018,2018,Employer,Name
+Hamden,900935650,5,NA,2017,2018,2018,Employer,Name
+Hampton,901536000,5,NA,2017,2018,2018,Employer,Name
+Hartford,900337070,5,NA,2017,2018,2018,Employer,Name
+Hartland,900337140,5,NA,2017,2018,2018,Employer,Name
+Harwinton,900537280,5,NA,2017,2018,2018,Employer,Name
+Hebron,901337910,5,Ted's Supermarket,2017,2018,2018,Employer,Name
+Kent,900540290,5,NA,2017,2018,2018,Employer,Name
+Killingly,901540500,5,NA,2017,2018,2018,Employer,Name
+Killingworth,900740710,5,NA,2017,2018,2018,Employer,Name
+Lebanon,901142390,5,NA,2017,2018,2018,Employer,Name
+Ledyard,901142600,5,CVS,2017,2018,2018,Employer,Name
+Lisbon,901143230,5,NA,2017,2018,2018,Employer,Name
+Litchfield,900543370,5,NA,2017,2018,2018,Employer,Name
+Lyme,901144210,5,NA,2017,2018,2018,Employer,Name
+Madison,900944560,5,NA,2017,2018,2018,Employer,Name
+Manchester,900344700,5,Manchester Community College,2017,2018,2018,Employer,Name
+Mansfield,901344910,5,Mansfield Center for Nursing & Rehab,2017,2018,2018,Employer,Name
+Marlborough,900345820,5,NA,2017,2018,2018,Employer,Name
+Meriden,900946520,5,Mirion Technologies,2017,2018,2018,Employer,Name
+Middlebury,900946940,5,NA,2017,2018,2018,Employer,Name
+Middlefield,900747080,5,NA,2017,2018,2018,Employer,Name
+Middletown,900747360,5,NA,2017,2018,2018,Employer,Name
+Milford,900947535,5,NA,2017,2018,2018,Employer,Name
+Monroe,900148620,5,"Northeast Laser Engraving, Inc.",2017,2018,2018,Employer,Name
+Montville,901148900,5,NA,2017,2018,2018,Employer,Name
+Morris,900549460,5,NA,2017,2018,2018,Employer,Name
+Naugatuck,900949950,5,NA,2017,2018,2018,Employer,Name
+New Britain,900350440,5,Stanley Black & Decker,2017,2018,2018,Employer,Name
+New Canaan,900150580,5,NA,2017,2018,2018,Employer,Name
+New Fairfield,900150860,5,NA,2017,2018,2018,Employer,Name
+New Hartford,900551350,5,NA,2017,2018,2018,Employer,Name
+New Haven,900952070,5,NA,2017,2018,2018,Employer,Name
+New London,901152350,5,Mitchell College,2017,2018,2018,Employer,Name
+New Milford,900552630,5,NA,2017,2018,2018,Employer,Name
+Newington,900352140,5,U.S. Veteran's Hospital Medical Center,2017,2018,2018,Employer,Name
+Newtown,900152980,5,Big Y Supermarkets,2017,2018,2018,Employer,Name
+Norfolk,900553470,5,NA,2017,2018,2018,Employer,Name
+North Branford,900953890,5,NA,2017,2018,2018,Employer,Name
+North Canaan,900554030,5,NA,2017,2018,2018,Employer,Name
+North Haven,900954870,5,NA,2017,2018,2018,Employer,Name
+North Stonington,901155500,5,NA,2017,2018,2018,Employer,Name
+Norwalk,900156060,5,MBI,2017,2018,2018,Employer,Name
+Norwich,901156270,5,U.S. Food Service,2017,2018,2018,Employer,Name
+Old Lyme,901157040,5,Kellogg Marine,2017,2018,2018,Employer,Name
+Old Saybrook,900757320,5,From You Flowers/Eve's Addiction,2017,2018,2018,Employer,Name
+Orange,900957600,5,Dichello Distributors,2017,2018,2018,Employer,Name
+Oxford,900958300,5,NA,2017,2018,2018,Employer,Name
+Plainfield,901559980,5,Staples,2017,2018,2018,Employer,Name
+Plainville,900360120,5,NA,2017,2018,2018,Employer,Name
+Plymouth,900560750,5,NA,2017,2018,2018,Employer,Name
+Pomfret,901561030,5,NA,2017,2018,2018,Employer,Name
+Portland,900761800,5,Adam's Hometown Market,2017,2018,2018,Employer,Name
+Preston,901162150,5,NA,2017,2018,2018,Employer,Name
+Prospect,900962290,5,NA,2017,2018,2018,Employer,Name
+Putnam,901562710,5,NA,2017,2018,2018,Employer,Name
+Redding,900163480,5,NA,2017,2018,2018,Employer,Name
+Ridgefield,900163970,5,Ridgefield Crossings,2017,2018,2018,Employer,Name
+Rocky Hill,900365370,5,NA,2017,2018,2018,Employer,Name
+Roxbury,900565930,5,NA,2017,2018,2018,Employer,Name
+Salem,901166210,5,24 Hartford Rd Shopping Center,2017,2018,2018,Employer,Name
+Salisbury,900566420,5,NA,2017,2018,2018,Employer,Name
+Scotland,901567400,5,NA,2017,2018,2018,Employer,Name
+Seymour,900967610,5,NA,2017,2018,2018,Employer,Name
+Sharon,900567960,5,NA,2017,2018,2018,Employer,Name
+Shelton,900168170,5,NA,2017,2018,2018,Employer,Name
+Sherman,900168310,5,NA,2017,2018,2018,Employer,Name
+Simsbury,900368940,5,Chubb Insurance,2017,2014,2018,Employer,Name
+Somers,901369220,5,NA,2017,2018,2018,Employer,Name
+South Windsor,900371390,5,NA,2017,2018,2018,Employer,Name
+Southbury,900969640,5,NA,2017,2018,2018,Employer,Name
+Southington,900370550,5,Yarde Metals,2017,2018,2018,Employer,Name
+Sprague,901171670,5,NA,2017,2018,2018,Employer,Name
+Stafford,901372090,5,WIllington Name Plate,2017,2018,2018,Employer,Name
+Stamford,900173070,5,Indeed.com,2017,2018,2018,Employer,Name
+Sterling,901573420,5,NA,2017,2018,2018,Employer,Name
+Stonington,901173770,5,NA,2017,2018,2018,Employer,Name
+Stratford,900174190,5,NA,2017,2018,2018,Employer,Name
+Suffield,900374540,5,NA,2017,2018,2018,Employer,Name
+Thomaston,900575730,5,Quality Rolling & Deburring Co,2017,2018,2018,Employer,Name
+Thompson,901575870,5,NA,2017,2018,2018,Employer,Name
+Tolland,901376290,5,CNC Software,2017,2018,2018,Employer,Name
+Torrington,900576570,5,NA,2017,2018,2018,Employer,Name
+Trumbull,900177200,5,St. Joseph’s Manor,2017,2018,2018,Employer,Name
+Union,901377830,5,NA,2017,2018,2018,Employer,Name
+Vernon,901378250,5,Reins Deli,2017,2018,2018,Employer,Name
+Voluntown,901178600,5,Dunkin Donuts,2017,2018,2018,Employer,Name
+Wallingford,900978740,5,"Community Health Network of CT, Inc.",2017,2018,2018,Employer,Name
+Warren,900579510,5,NA,2017,2018,2018,Employer,Name
+Washington,900579720,5,Washington Supply Company,2017,2018,2018,Employer,Name
+Waterbury,900980070,5,NA,2017,2018,2018,Employer,Name
+Waterford,901180280,5,NA,2017,2018,2018,Employer,Name
+Watertown,900580490,5,NA,2017,2018,2018,Employer,Name
+West Hartford,900382590,5,Triumph Engine Control Systems,2017,2018,2018,Employer,Name
+West Haven,900982870,5,NA,2017,2018,2018,Employer,Name
+Westbrook,900781680,5,SHM Pilots Point LLC,2017,2018,2018,Employer,Name
+Weston,900183430,5,NA,2017,2018,2018,Employer,Name
+Westport,900183500,5,Greens Farms Academy,2017,2018,2018,Employer,Name
+Wethersfield,900384900,5,NA,2017,2018,2018,Employer,Name
+Willington,901385950,5,NA,2017,2018,2018,Employer,Name
+Wilton,900186370,5,NA,2017,2018,2018,Employer,Name
+Winchester,900586440,5,NA,2017,2018,2018,Employer,Name
+Windham,901586790,5,NA,2017,2018,2018,Employer,Name
+Windsor,900387000,5,Walgreens Co.,2017,2018,2018,Employer,Name
+Windsor Locks,900387070,5,NA,2017,2018,2018,Employer,Name
+Wolcott,900987560,5,NA,2017,2018,2018,Employer,Name
+Woodbridge,900987700,5,NA,2017,2018,2018,Employer,Name
+Woodbury,900587910,5,Woodbury Chevrolet,2017,2018,2018,Employer,Name
+Woodstock,901588190,5,NA,2017,2018,2018,Employer,Name
