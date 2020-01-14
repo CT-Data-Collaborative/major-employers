@@ -6,4 +6,4 @@ env/
 .idea/
 .Rproj.user
 .Rhistory
-.ipynb_checkpoints/
+.ipynb_checkpoints
